@@ -3,8 +3,7 @@ layout: stories
 title: "Interview with Bassel's uncle, Oussama Al Rifai"
 categories: [ stories ]
 ---
-<p>
-Free  Bassel: Hi Oussama, tell me a little bit about yourself, your relation to Bassel and his passion for computers.
+<p>Free  Bassel: Hi Oussama, tell me a little bit about yourself, your relation to Bassel and his passion for computers.</p>
 
 Oussama Al Rifai: I'm Bassel's uncle, his mother's brother. I studied systems programming in Russia (ex-Soviet Union). When I came back to Syria in 1991, I bought a personal computer. At this time, Bassel was about 15 years old and computers in Syria were a huge innovation, so for me to buy a computer I was one of only thousands. Because of this, Bassel's mother brought him to my place and told me "please, teach him computing." And I said, "I love Bassel, he's my only nephew, of course I will." So we planned a weekly schedule where I taught him not how to play games but to program. The first time he came I stayed with him 30 minutes, but I got bored so every week he came I told him "here is a computer, you have three hours, do whatever you want." This continued for 3 or 4 months until he finally bought his own computer. He built all his knowledge about computing by himself; I literally stayed with him only 30 minutes. And after one year I was the one who started looking to him for help whenever I had computer questions/problems. 
 
