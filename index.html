@@ -75,14 +75,14 @@ title: HOME
 		</div>
 		
 		<table style="width:100%">
-		{% for post in site.categories.press limit:5 %}
+		{% for post in site.categories.stories limit:5 %}
 
-		<tr><td>{{ post.date | date: "%b&nbsp;%d" }}</td><td><a href="{{post.link}}"><strong>{{post.title}}</strong></a> <small>by {{ post.source }}</small></td></tr>
+		<tr><td>{{ post.date | date: "%b&nbsp;%d" }}</td><td><a href="{{post.url}}"><strong>{{post.title}}</strong></a> <small>by {{ post.source }}</small></td></tr>
 		
 		{% endfor %}
 		</table>
 		
-		<p><a href="/press">Read all {{ site.categories.press | size }} interviews and stories...</a></p>
+		<p><a href="/press">Read all {{ site.categories.stories | size }} interviews and stories...</a></p>
 		
 	</div>
 </div>
