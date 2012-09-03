@@ -71,6 +71,24 @@ title: HOME
 <div class="row">
 	<div class="nine columns centered">
 		<div class="panel">
+			<h5>Interviews and Stories</h5>
+		</div>
+		
+		<table style="width:100%">
+		{% for post in site.categories.press limit:5 %}
+
+		<tr><td>{{ post.date | date: "%b&nbsp;%d" }}</td><td><a href="{{post.link}}"><strong>{{post.title}}</strong></a> <small>by {{ post.source }}</small></td></tr>
+		
+		{% endfor %}
+		</table>
+		
+		<p><a href="/press">Read all {{ site.categories.press | size }} interviews and stories...</a></p>
+		
+	</div>
+</div>
+<div class="row">
+	<div class="nine columns centered">
+		<div class="panel">
 			<h5>In the News</h5>
 		</div>
 		
