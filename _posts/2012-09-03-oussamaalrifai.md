@@ -18,5 +18,3 @@ OAR: I was working in a publishing company... who work on cultural projects. So 
 FB: Haha. He surpassed his master!
 
 OAR: Yes, completely. Bassel was exactly what they were looking for. In addition to database administration, he did a 3d interactive guide about Palmyra city—it was very good, very beautiful, scientific, and successful in Syrian cultural communities. Even the presidential palace knew about this project and supported it—it was partially sponsored by \[the publisher\]. Bassel was one of the top guys there.
-
-</p>
