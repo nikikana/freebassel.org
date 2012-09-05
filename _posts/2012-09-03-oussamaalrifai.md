@@ -14,8 +14,8 @@ OAR: Later we have what people call a computer geek. He loved programming. From 
 
 FB: Where did that lead?
 
-OAR: I was working in a publishing company... who work on cultural projects. So I was working as a database administrator, and in Syria, if you work as an IT man, you do everything—everything related to the computer. In 2001, I had an opportunity to come to UAE, so I left \[the]\ publishers. After 3 months, \[they\] called me and gave me two options: either come back and work for them or find someone to replace me. I couldn't find anyone but Bassel. So they interviewed him and took him. After 15 days of him working there, they called me back and said don't worry about coming back ever.
+OAR: I was working in a publishing company... who work on cultural projects. So I was working as a database administrator, and in Syria, if you work as an IT man, you do everything—everything related to the computer. In 2001, I had an opportunity to come to UAE, so I left the publishers. After 3 months, they called me and gave me two options: either come back and work for them or find someone to replace me. I couldn't find anyone but Bassel. So they interviewed him and took him. After 15 days of him working there, they called me back and said don't worry about coming back ever.
 
 FB: Haha. He surpassed his master!
 
-OAR: Yes, completely. Bassel was exactly what they were looking for. In addition to database administration, he did a 3d interactive guide about Palmyra city—it was very good, very beautiful, scientific, and successful in Syrian cultural communities. Even the presidential palace knew about this project and supported it—it was partially sponsored by \[the publisher\]. Bassel was one of the top guys there.
+OAR: Yes, completely. Bassel was exactly what they were looking for. In addition to database administration, he did a 3d interactive guide about Palmyra city—it was very good, very beautiful, scientific, and successful in Syrian cultural communities. Even the presidential palace knew about this project and supported it—it was partially sponsored by the publisher. Bassel was one of the top guys there.
