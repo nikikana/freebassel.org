@@ -1,6 +1,6 @@
 ---
 layout: stories
-title: "Interview with Bassel's uncle, Oussama Al Rifai"
+title: "Interview with Oussama Al Rifai (Bassel's uncle)"
 categories: [ stories ]
 ---
 
