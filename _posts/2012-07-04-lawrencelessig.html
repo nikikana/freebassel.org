@@ -1,8 +1,8 @@
 ---
 layout: statements
-title: "Joichi Ito's statement"
-source: "Creative Commons"
-link: https://creativecommons.org/weblog/entry/33119
+title: "Lawrence Lessig's statement"
+source: "Mozilla Foundation"
+link: http://lessig.tumblr.com/post/26484646550/on-the-fight-for-liberty-july-4-2012
 categories: [ statements ]
 ---
 
@@ -11,31 +11,23 @@ categories: [ statements ]
 
 		<dl class="nice contained tabs">
 			<dd><a href="#english" class="active">English</a></dd>
-			<dd><a href="#arabic" dir="rtl">العربية</a></dd>
 			<dd><a href="#chinese">中文</a></dd>
 		</dl>
 
 		<ul class="nice tabs-content contained">
 			<li class="active" id="englishTab">
 				  {% capture english_letter %}
-					{% include support-joiito-english.md %}
+					{% include support-lessig-english.md %}
 				  {% endcapture %}
 				  {{ english_letter | unindent | markdownify }}
 			</li>
 
-			<li id="arabicTab" dir="rtl">
-				  {% capture arabic_letter %}
-					{% include support-joiito-arabic.md %}
-				  {% endcapture %}
-				  {{ arabic_letter | unindent | markdownify }}
-			</li>
 			<li id="chineseTab" dir="ltr">
 				  {% capture chinese_letter %}
-					{% include support-joiito-chinese.md %}
+					{% include support-lessig-chinese.md %}
 				  {% endcapture %}
 				  {{ chinese_letter | unindent | markdownify }}
 			</li>
 		</ul>
 
 </div>
-
