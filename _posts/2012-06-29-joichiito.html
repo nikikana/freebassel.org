@@ -12,6 +12,7 @@ categories: [ statements ]
 		<dl class="nice contained tabs">
 			<dd><a href="#english" class="active">English</a></dd>
 			<dd><a href="#arabic" dir="rtl">العربية</a></dd>
+			<dd><a href="#chinese">中文</a></dd>
 		</dl>
 
 		<ul class="nice tabs-content contained">
@@ -27,6 +28,12 @@ categories: [ statements ]
 					{% include support-joiito-arabic.md %}
 				  {% endcapture %}
 				  {{ arabic_letter | unindent | markdownify }}
+			</li>
+			<li id="chineseTab" dir="ltr">
+				  {% capture chinese_letter %}
+					{% include support-joiito-chinese.md %}
+				  {% endcapture %}
+				  {{ chinese_letter | unindent | markdownify }}
 			</li>
 		</ul>
 	</div>
