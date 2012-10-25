@@ -2,7 +2,6 @@
 layout: default
 title: HOME
 ---
-
 <div class="row">
 	<div class="nine columns centered">
 		{% include status.html %}
@@ -10,7 +9,6 @@ title: HOME
 		<div class="panel">
 		<h5>Campaign Launched to Bring Home Loved and Celebrated Internet Volunteer Detained in Syria</h5>
 		</div>
-		
 		<p><a href="http://www.flickr.com/photos/joi/4670781482/" title="Bassel by Joi, on Flickr"><img src="http://farm5.staticflickr.com/4018/4670781482_d072301ef0_b_d.jpg" width="100%" alt="Bassel"></a></p>
 		
 		<p class="caption"><a href="http://www.flickr.com/photos/joi/4670781482/">Bassel</a> by <a href="http://www.flickr.com/photos/joi/">Joi Ito</a>, on Flickr
@@ -66,6 +64,25 @@ title: HOME
 			<h5>Supporters</h5>
 		</div>
 		<p>{% include spreadsheet.html %}</p>
+	</div>
+</div>
+
+<div class="row">
+	<div class="nine columns centered">
+		<div class="panel">
+			<h5>Events</h5>
+		</div>
+		
+		<table style="width:100%">
+		{% for post in site.categories.events limit:5 %}
+
+		<tr><td>{{ post.date | date: "%b&nbsp;%d" }}</td><td><a href="{{post.url}}"><strong>{{post.title}}</strong></a> </td></tr>
+		
+		{% endfor %}
+		</table>
+		
+		
+		
 	</div>
 </div>
 
