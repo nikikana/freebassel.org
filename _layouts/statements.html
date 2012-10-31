@@ -5,7 +5,9 @@ layout: default
 <div class="row">
 	<div class="nine columns centered">
 	
-	 <h3>{{page.title}}</h3>
+	<p>Date: {{ page.date | date: "%d %B %Y" }}</p>
+
+	<p>Filed under: <a href="/{{ page.categories }}">{{ page.categories }}</a></p>
 	
 	<hr/>
 	
