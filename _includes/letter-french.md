@@ -6,7 +6,7 @@ Depuis, Bassel s’est fait connaître dans le monde entier par son engagement r
 
 Depuis son arrestation, le précieux travail de Bassel comme contributeur bénévole, que ce soit en Syrie ou dans le monde entier, s’est interrompu. Son absence a été durement ressentie pour les communautés qui dépendent de lui. En outre, sa famille et sa fiancée (qu’il devait épouser en avril dernier) ne vivent plus que dans une attente angoissante.
 
-Bassel Khartabil est incarcéré injustement depuis bientôt quatre mois sans aucun procès et sans qu’aucun motif d’inculpation n’ait été retenu contre lui.
+Bassel Khartabil est incarcéré injustement depuis plusieurs mois sans aucun procès et sans qu’aucun motif d’inculpation n’ait été retenu contre lui.
 
 Nous, signataires de la campagne #FREEBASSEL, exigeons immédiatement des informations sur ses conditions de détention, sa santé et son état psychologique.
 

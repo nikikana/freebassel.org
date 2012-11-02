@@ -6,7 +6,7 @@ Since then, Bassel has become known worldwide for his strong commitment to the o
 
 Since his arrest, Bassel’s valuable volunteer work, both in Syria and around the world, has been stopped. His absence has been painful for the communities that depend on him. In addition, his family, and his fiancée whom he was due to marry this past April, have had their lives put on hold.
 
-Bassel Khartabil has been unjustly detained for nearly four months without trial or any legal charges being brought against him.
+Bassel Khartabil has been unjustly detained for many months without trial or any legal charges being brought against him.
 
 We, the signees of the #FREEBASSEL campaign, demand immediate information regarding his detention, health, and psychological state. 
 
