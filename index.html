@@ -15,6 +15,7 @@ title: HOME
 
 		<dl class="nice contained tabs">
 			<dd><a href="#english" class="active">English</a></dd>
+			<dd><a href="#japanese">日本語</a></dd>
 			<dd><a href="#français">Français</a></dd>
 			<dd><a href="#deutsch">Deutsch</a></dd>
 			<dd><a href="#arabic" dir="rtl">العربية</a></dd>
@@ -28,6 +29,12 @@ title: HOME
 					{% include letter-english.md %}
 				  {% endcapture %}
 				  {{ english_letter | unindent | markdownify }}
+			</li>
+			<li id="japaneseTab">
+				  {% capture japanese_letter %}
+					{% include letter-japanese.md %}
+				  {% endcapture %}
+				  {{ japanese_letter | unindent | markdownify }}
 			</li>
 			<li id="françaisTab">
 				  {% capture french_letter %}
