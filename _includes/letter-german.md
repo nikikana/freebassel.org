@@ -6,7 +6,7 @@ Seitdem wurde Bassel weltweit für sein großes Engagement für ein offenes Netz
 
 Mit seiner Verhaftung sind Bassels wertvolle freiwillige Beiträge gestoppt worden. Sein Verschwinden ist für die Gemeinschaften, die auf ihn zählen, schmerzlich. Dazu leben seine Familie und seine Verlobte, die er im April hätte heiraten sollen, im Schwebezustand.
 
-Bassel Khartabil wird seit fast 8 Monaten unrechtmäßig festgehalten, ohne Gerichtsverfahren und ohne irgendeine Anklage.
+Bassel Khartabil wird seit vielen Monaten unrechtmäßig festgehalten, ohne Gerichtsverfahren und ohne irgendeine Anklage.
 
 Wir, die Unterzeichner der #FREEBASSEL Kampagne, fordern unverzügliche Information über seine Verhaftung, seinen Gesundheits- und seinen psychischen Zustand.
 
