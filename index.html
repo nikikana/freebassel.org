@@ -15,6 +15,7 @@ title: HOME
 			<dd><a href="#japanese">日本語</a></dd>
 			<dd><a href="#français">Français</a></dd>
 			<dd><a href="#deutsch">Deutsch</a></dd>
+			<dd><a href="#español">Español</a></dd>
 			<dd><a href="#arabic" dir="rtl">العربية</a></dd>
 			<dd><a href="#zhtw">繁體中文</a></dd>
 			<dd><a href="#zhcn">简体中文</a></dd>
@@ -44,6 +45,12 @@ title: HOME
 					{% include letter-german.md %}
 				  {% endcapture %}
 				  {{ german_letter | unindent | markdownify }}
+			</li>
+			<li id="españolTab">
+				  {% capture spanish_letter %}
+					{% include letter-spanish.md %}
+				  {% endcapture %}
+				  {{ spanish_letter | unindent | markdownify }}
 			</li>
 			<li id="arabicTab" dir="rtl">
 				  {% capture arabic_letter %}
