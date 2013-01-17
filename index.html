@@ -17,6 +17,7 @@ title: HOME
 			<dd><a href="#francais">Français</a></dd>
 			<dd><a href="#deutsch">Deutsch</a></dd>
 			<dd><a href="#espanol">Español</a></dd>
+			<dd><a href="#italiano">Italiano</a></dd>
 			<dd><a href="#portugues">Português</a></dd>
 			<dd><a href="#nederlands">Nederlands</a></dd>
 			<dd><a href="#zhtw">繁體中文</a></dd>
@@ -65,6 +66,12 @@ title: HOME
 					{% include letter-portuguese.md %}
 				  {% endcapture %}
 				  {{ portuguese_letter | unindent | markdownify }}
+			</li>
+			<li id="italianoTab">
+				  {% capture italian_letter %}
+					{% include letter-italian.md %}
+				  {% endcapture %}
+				  {{ italian_letter | unindent | markdownify }}
 			</li>
 			<li id="nederlandsTab">
 				  {% capture dutch_letter %}
