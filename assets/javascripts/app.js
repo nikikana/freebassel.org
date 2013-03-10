@@ -94,21 +94,6 @@ jQuery(document).ready(function ($) {
 
 	/* DISABLED BUTTONS ------------- */
 	/* Gives elements with a class of 'disabled' a return: false; */
-
-	// Load the classic theme
-    Galleria.loadTheme('../../galleria/src/themes/classic/galleria.classic.js');
-
-    // Initialize Galleria
-    Galleria.run('#galleria', {
-
-        // search flickr for "freebassel"
-        flickr: 'search:freebassel',
-        
-        flickrOptions: {
-            // sort by interestingness
-            sort: 'interestingness-desc'
-        }
-    });
   
 });
 
