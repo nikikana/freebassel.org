@@ -132,15 +132,15 @@ Berlin
 Paris
 ✳ Organizer: Melanie Dulong CC-FR, Primavera De Filippi OKFN-FR
 ✳ Venue: syrian restaurant L'Agate, 14 boulevard Bonne Nouvelle, Paris from 19:30
-https://www.facebook.com/events/426981290720783/
-http://lebistrosyrien.com/bistro/contact.php
+[Facebook]  (https://www.facebook.com/events/426981290720783/)
+[syrian restaurant L'Agate]  (http://lebistrosyrien.com/bistro/contact.php)
 ✳ Time: online all week + Friday night in Paris
 ✳ Action(s): online information campaign + meet up in restaurant
 ✳ Notes: https://etherpad.mozilla.org/WJBMlzHMIa
 * Blog posts:
-http://www.savoirscom1.info/2013/03/10/le-15-mars-participez-a-la-rumeur-mondiale-pour-liberer-bassel-khartibil/
-http://creativecommons.fr/liberez-bassel-freebasselday-le-15-mars-2013/
-https://www.facebook.com/events/426981290720783/
+[http://www.savoirscom1.info/2013/03/10/le-15-mars-participez-a-la-rumeur-mondiale-pour-liberer-bassel-khartibil/] (http://www.savoirscom1.info/2013/03/10/le-15-mars-participez-a-la-rumeur-mondiale-pour-liberer-bassel-khartibil/)
+[http://creativecommons.fr/liberez-bassel-freebasselday-le-15-mars-2013/]  (http://creativecommons.fr/liberez-bassel-freebasselday-le-15-mars-2013/)
+[Facebook]  (https://www.facebook.com/events/426981290720783/)
 
 Amsterdam
 ✳ Organizer: Nouakchott / Maarten Zeinstra CC-NL
@@ -163,6 +163,3 @@ Warsaw
 ✳ Time:all day
 ✳ Action(s):probably I'll do information campaign but in this action I'll try to integrate polish organizations,  non-profits who work for free/open internet to do it together, as a commons action. I'll ask them to sent info among their friends and supporters, to sign the petition. Tweeting, posting. Not sure if I'll be able to organize an event. Keep you posted about it.
 ✳ Notes: hope that it will be a truly community action - to show that open/libre people in warsaw/poland are united on this day
-
-
-
