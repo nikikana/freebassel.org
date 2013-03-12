@@ -10,7 +10,7 @@ categories: [ events ]
 
 [Blessing #freebassel by Felici jenny, on Flickr](http://www.flickr.com/photos/14501922@N02/8493011005/)
 
-# Announcing The 1st Annual #FREEBASSELDAY on March 15. [FREEBASSELDAY.ORG](http://freebasselday.com)
+# Announcing The 1st Annual #FREEBASSELDAY on March 15. [FREEBASSELDAY.ORG](http://freebasselday.org)
 
 March 11, 2013 - We, the supporters of the [#freebassel](https://twitter.com/#freebassel) project are inviting every person, everywhere to make an event on March 15, 2013 with other people in your city in global solidarity to call for the immediate release of open web advocate Bassel Khartibil. This day is the one year anniversary of the illegal jailing of Bassel Khartibil, well known free internet pioneer, software engineer, teacher, husband, family-man and friend. Bassel is a normal guy, in a bad situation. He is now stuck in a Syrian jail cell where he is not able to directly contribute to his local and global communities. We demand his captors to [#freebassel](https://twitter.com/#freebassel)!
 
