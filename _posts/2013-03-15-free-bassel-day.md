@@ -50,3 +50,7 @@ For more information
 * [freebassel.org](http://freebassel.org)
 * [en.wikipedia.org/wiki/Bassel_Khartabil](http://en.wikipedia.org/wiki/Bassel_Khartabil)
 * [en.wikipedia.org/wiki/March_15](http://en.wikipedia.org/wiki/March_15)
+
+### Press Release
+
+Download <a href="/assets/press/freebasselday-press-release.pdf">PDF</a>,  <a href="/assets/press/freebasselday-press-release.doc">Microsoft Word</a>, <a href="/assets/press/freebasselday-press-release.odt">OpenDocument Format</a>
