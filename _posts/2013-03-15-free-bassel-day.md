@@ -29,7 +29,7 @@ If this event is successful we will [#freebassel](https://twitter.com/#freebasse
 * Update Bassel's [Wikipedia entry](http://en.wikipedia.org/wiki/Bassel_Khartabil) 
 * Translate Bassel's Wikipedia entry into your own language
 * Make our event global: http://en.wikipedia.org/wiki/March_15
-* Make #FREEBASSEL t-shirts from the [FREEBASSEL Avatar](http://openclipart.org/search/?query=freebassel)
+* Make #FREEBASSEL [t-shirts](https://twitter.com/globsterlitter/status/311651517646131201) from the [FREEBASSEL Avatar](http://openclipart.org/search/?query=freebassel)
 * Print out #FREEBASSEL Posters, and put them up all over your city
 * Take pictures of your meeting raising your cups to #FREEBASSEL
 * Create #FREEBASSEL artwork
