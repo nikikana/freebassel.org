@@ -35,7 +35,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 dl.nice.contained.tabs dd a {
-padding: 7px 8px 9px;
+padding: 7px 7px 9px;
+}
+
+.nice.tabs dd a.active {
+	font-weight: normal;
+	margin: 0;
 }
 
 .tabs-content li p:first-child {
