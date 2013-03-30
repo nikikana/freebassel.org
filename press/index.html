@@ -13,7 +13,7 @@ title: Press
 		<table style="width:100%">
 		{% for post in site.categories.press %}
 
-		<tr><td>{{ post.date | date: "%b&nbsp;%d" }}</td><td><a href="{{post.link}}"><strong>{{post.title}}</strong></a> <small>by {{ post.source }}</small></td></tr>
+		<tr><td>{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{post.link}}"><strong>{{post.title}}</strong></a> <small>by {{ post.source }}</small></td></tr>
 		
 		{% endfor %}
 		</table>
