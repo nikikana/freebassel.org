@@ -154,7 +154,7 @@ title: HOME
 		<table style="width:100%">
 		{% for post in site.categories.events limit:5 %}
 
-		<tr><td>{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{post.url}}"><strong>{{post.title}}</strong></a> </td></tr>
+		<tr><td>{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{site.baseurl}}{{post.url}}"><strong>{{post.title}}</strong></a> </td></tr>
 		
 		{% endfor %}
 		</table>
@@ -173,7 +173,7 @@ title: HOME
 		<table style="width:100%">
 		{% for post in site.categories.statements limit:5 %}
 
-		<tr><td>{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{post.url}}"><strong>{{post.title}}</strong></a></td></tr>
+		<tr><td>{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{site.baseurl}}{{post.url}}"><strong>{{post.title}}</strong></a></td></tr>
 		
 		{% endfor %}
 		</table>
@@ -192,7 +192,7 @@ title: HOME
 		<table style="width:100%">
 		{% for post in site.categories.stories limit:5 %}
 
-		<tr><td>{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{post.url}}"><strong>{{post.title}}</strong></a></td></tr>
+		<tr><td>{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{site.baseurl}}{{post.url}}"><strong>{{post.title}}</strong></a></td></tr>
 		
 		{% endfor %}
 		</table>
@@ -215,7 +215,7 @@ title: HOME
 		{% endfor %}
 		</table>
 		
-		<p><a href="/press">Read all {{ site.categories.press | size }} news stories...</a></p>
+		<p><a href="{{site.baseurl}}/press">Read all {{ site.categories.press | size }} news stories...</a></p>
 		
 	</div>
 </div>
