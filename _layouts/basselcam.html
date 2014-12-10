@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>{{site.title}}{%if site.tagline %} - {{site.tagline}}{% endif %}</title>
+        <meta name="description" content="{{site.description}}">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="generator" content="{{site.repository}}" />
+		<link rel="help" href="{{site.repository}}" />
+		
+		{% if page.tags %}
+		<meta name="keywords" content="{{page.tags | join: ', '}}" />
+		{% else %}
+		<meta name="keywords" content="{{site.keywords | join: ', '}}" />
+		{% endif %}
+
+        <!-- Change favicon.ico and apple-touch-icon.png to your own designs -->
+		<link rel="shortcut icon" href="favicon.ico">
+
+        <link rel="stylesheet" href="js/vendor/vegas/src/jquery.vegas.css">
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+		
+		  <!-- Add your site-specific styles to custom.css -->
+        <link rel="stylesheet" href="css/custom.css">
+		
+        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+	
+		{{ content }}
+
+		<div id="message">
+			&nbsp;	
+		</div>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script src="js/vendor/vegas/src/jquery.vegas.js"></script>
+        <script src="js/vendor/instafeed/instafeed.min.js"></script>
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+		
+		<script>
+			function fabricate() {
+				var tagName = "{{site.instagram.tag}}";
+				var hashTag = "{{site.instagram.hashTag}}";  
+
+				if (hashTag) {
+					var hash = window.location.hash.replace('#', '');
+					tagName = hash ? hash : tagName;
+				}
+
+				var options = {
+					tagName : tagName,
+					clientId : "{{site.instagram.client_id}}",
+					showCaptions : {{site.instagram.captions}},
+					limit : {{site.instagram.limit}},
+					interval : {{site.instagram.refresh}}
+				};
+
+				var fabricam = new Fabricam(options);
+				fabricam.run();
+			}
+
+			fabricate();
+
+			$(window).bind( 'hashchange', function(e) { fabricate(); });
+
+		</script>
+
+		{% if site.google_analytics %}
+        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+        <script>
+            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+            e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+            e.src='//www.google-analytics.com/analytics.js';
+            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+            ga('create','{{site.google_analytics}}');ga('send','pageview');
+        </script>
+		{% endif %}
+
+		{% if site.piwik_site_id %}
+		<!-- Piwik -->
+		<script type="text/javascript">
+			var _paq = _paq || [];
+			_paq.push(["trackPageView"]);
+			_paq.push(["enableLinkTracking"]);
+		
+			(function() {
+				var u=(("https:" == document.location.protocol) ? "https" : "http") + "://analytics.fabricatorz.com/";
+				_paq.push(["setTrackerUrl", u+"piwik.php"]);
+				_paq.push(["setSiteId", "{{site.piwik_site_id}}"]);
+				var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+				g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+			})();
+		</script>
+		<!-- Piwik Image Tracker -->
+		<noscript>
+			<img src="https://analytics.fabricatorz.com/piwik.php?idsite={{site.piwik_site_id}}&amp;rec=1" style="border:0" alt="" />
+		</noscript>
+		<!-- End Piwik -->
+		{% endif %}
+
+    </body>
+</html>

@@ -4,3 +4,9 @@
 [submodule "galleria"]
 	path = galleria
 	url = git://github.com/aino/galleria.git
+[submodule "js/vendor/instafeed"]
+	path = js/vendor/instafeed
+	url = https://github.com/stevenschobert/instafeed.js.git
+[submodule "js/vendor/vegas"]
+	path = js/vendor/vegas
+	url = https://github.com/jaysalvat/vegas.git

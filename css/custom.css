@@ -1,0 +1,33 @@
+/* ==========================================================================
+   Add your site-specific styles here
+   ========================================================================== */
+
+@font-face {
+  font-family: 'Contrail One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Contrail One'), local('ContrailOne-Regular'), url(http://themes.googleusercontent.com/static/fonts/contrailone/v3/b41KxjgiyqX-hkggANDU6KRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+} 
+
+html, body {
+	font-family: 'Contrail One', monospace;
+}
+
+a, a:visited {
+	color: #2a85e8;
+}
+
+a:hover, a:focus {
+	color: #7F8C8D;
+}
+
+#campaign {
+	display: block;
+	position: absolute;
+	top: 20px;
+	left: 0;
+	padding: 0.25em;
+	margin: 0 20px;
+	background-color: rgba(0,0,0,0.75);
+	font-size: 2em;
+}
