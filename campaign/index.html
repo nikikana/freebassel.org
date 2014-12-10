@@ -154,7 +154,7 @@ title: Campaign
 		<table style="width:100%">
 		{% for post in site.categories.events limit:5 %}
 
-		<tr><td>{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{site.baseurl}}{{post.url}}"><strong>{{post.title}}</strong></a> </td></tr>
+		<tr><td class="date-cell">{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{site.baseurl}}{{post.url}}"><strong>{{post.title}}</strong></a> </td></tr>
 		
 		{% endfor %}
 		</table>
@@ -173,7 +173,7 @@ title: Campaign
 		<table style="width:100%">
 		{% for post in site.categories.statements limit:5 %}
 
-		<tr><td>{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{site.baseurl}}{{post.url}}"><strong>{{post.title}}</strong></a></td></tr>
+		<tr><td class="date-cell">{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{site.baseurl}}{{post.url}}"><strong>{{post.title}}</strong></a></td></tr>
 		
 		{% endfor %}
 		</table>
@@ -192,7 +192,7 @@ title: Campaign
 		<table style="width:100%">
 		{% for post in site.categories.stories limit:5 %}
 
-		<tr><td>{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{site.baseurl}}{{post.url}}"><strong>{{post.title}}</strong></a></td></tr>
+		<tr><td class="date-cell">{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{site.baseurl}}{{post.url}}"><strong>{{post.title}}</strong></a></td></tr>
 		
 		{% endfor %}
 		</table>
@@ -210,7 +210,7 @@ title: Campaign
 		<table style="width:100%">
 		{% for post in site.categories.press limit:5 %}
 
-		<tr><td>{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{post.link}}"><strong>{{post.title}}</strong></a> <small>by {{ post.source }}</small></td></tr>
+		<tr><td class="date-cell">{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{post.link}}"><strong>{{post.title}}</strong></a> <small>by {{ post.source }}</small></td></tr>
 		
 		{% endfor %}
 		</table>
