@@ -1,9 +1,9 @@
 [submodule "deck"]
 	path = deck
-	url = git://github.com/imakewebthings/deck.js.git
+	url = https://github.com/imakewebthings/deck.js.git
 [submodule "galleria"]
 	path = galleria
-	url = git://github.com/aino/galleria.git
+	url = https://github.com/aino/galleria.git
 [submodule "js/vendor/instafeed"]
 	path = js/vendor/instafeed
 	url = https://github.com/stevenschobert/instafeed.js.git
