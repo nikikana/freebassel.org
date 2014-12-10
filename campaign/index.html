@@ -45,10 +45,10 @@ title: Campaign
 
 		<ul class="nice tabs-content contained">
 			<li class="active" id="englishTab">
-				  {% capture english_letter %}
-					{% include letter-english.md %}
-				  {% endcapture %}
-				  {{ english_letter | unindent | markdownify }}
+{% capture english_letter %}
+{% include letter-english.md %}
+{% endcapture %}
+{{ english_letter | unindent | markdownify }}
 			</li>
 			<li id="arabicTab" dir="rtl">
 				  {% capture arabic_letter %}
