@@ -1,0 +1,22 @@
+---
+layout: default
+title: Stories
+---
+
+<div class="row">
+	<div class="nine columns centered">
+
+		<div class="panel">
+			<h5>Statements and Letters</h5>
+		</div>
+
+		<table style="width:100%">
+		{% for post in site.categories.stories %}
+
+		<tr><td class="date-cell">{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{site.baseurl}}{{post.url}}"><strong>{{post.title}}</strong></a></td></tr>
+
+		{% endfor %}
+		</table>
+
+	</div>
+</div>

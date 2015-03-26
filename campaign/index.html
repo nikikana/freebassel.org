@@ -150,17 +150,17 @@ title: Campaign
 		<div class="panel">
 			<h5 id="events">Events</h5>
 		</div>
-		
+
 		<table style="width:100%">
 		{% for post in site.categories.events limit:5 %}
 
 		<tr><td class="date-cell">{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{site.baseurl}}{{post.url}}"><strong>{{post.title}}</strong></a> </td></tr>
-		
+
 		{% endfor %}
 		</table>
-		
-		
-		
+
+		<p><a href="{{site.baseurl}}/campaign/events">Read all {{ site.categories.events | size }} events...</a></p>
+
 	</div>
 </div>
 
@@ -169,17 +169,17 @@ title: Campaign
 		<div class="panel">
 			<h5>Statements and Letters</h5>
 		</div>
-		
+
 		<table style="width:100%">
 		{% for post in site.categories.statements limit:5 %}
 
 		<tr><td class="date-cell">{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{site.baseurl}}{{post.url}}"><strong>{{post.title}}</strong></a></td></tr>
-		
+
 		{% endfor %}
 		</table>
-		
+
 		<p><a href="{{site.baseurl}}/campaign/statements">Read all {{ site.categories.statements | size }} statements...</a></p>
-		
+
 	</div>
 </div>
 
@@ -188,17 +188,17 @@ title: Campaign
 		<div class="panel">
 			<h5 id="stories">Interviews and Stories</h5>
 		</div>
-		
+
 		<table style="width:100%">
 		{% for post in site.categories.stories limit:5 %}
 
 		<tr><td class="date-cell">{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{site.baseurl}}{{post.url}}"><strong>{{post.title}}</strong></a></td></tr>
-		
+
 		{% endfor %}
 		</table>
-		
 
-		
+		<p><a href="{{site.baseurl}}/campaign/stories">Read all {{ site.categories.statements | size }} stories...</a></p>
+
 	</div>
 </div>
 <div class="row">
