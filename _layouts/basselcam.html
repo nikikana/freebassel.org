@@ -50,8 +50,8 @@
 		
 		<script>
 			function fabricate() {
-				var tagName = "{{site.instagram.tag}}";
-				var hashTag = "{{site.instagram.hashTag}}";  
+				var tagName = "{{site.instafeed.tag}}";
+				var hashTag = "{{site.instafeed.hashTag}}";  
 
 				if (hashTag) {
 					var hash = window.location.hash.replace('#', '');
@@ -60,10 +60,10 @@
 
 				var options = {
 					tagName : tagName,
-					clientId : "{{site.instagram.client_id}}",
-					showCaptions : {{site.instagram.captions}},
-					limit : {{site.instagram.limit}},
-					interval : {{site.instagram.refresh}}
+					clientId : "{{site.instafeed.client_id}}",
+					showCaptions : {{site.instafeed.captions}},
+					limit : {{site.instafeed.limit}},
+					interval : {{site.instafeed.refresh}}
 				};
 
 				var fabricam = new Fabricam(options);

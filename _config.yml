@@ -20,7 +20,7 @@ languages :
   en: English
   ar: Arabic
 
-instagram:
+instafeed:
   tag: 'freebassel'
   client_id: '515a7d6587b249f18c9a855868e0ac1b'
   captions: true
