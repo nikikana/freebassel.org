@@ -1,9 +1,160 @@
 ---
-layout: basselcam
-title: HOME
+layout: default
+title: Campaign
 ---
+<div class="row">
+	<div class="nine columns centered">
+		{% include status.html %}
 
-<a id="campaign" href="/campaign">
-Follow the campaign to #freebassel
-</a>
+		<div id="galleria">
+<p><a href="https://www.flickr.com/photos/joi/4670781482/" title="Bassel by Joi, on Flickr"><img src="https://farm5.staticflickr.com/4018/4670781482_d072301ef0_b_d.jpg" width="100%" alt="Bassel"></a></p>
+		</div>
+<script>
 
+	// Load the classic theme
+    Galleria.loadTheme('/galleria/src/themes/classic/galleria.classic.js');
+
+    // Initialize Galleria
+    Galleria.run('#galleria', {
+
+        // search flickr for "freebassel"
+        flickr: 'search:freebassel',
+
+        flickrOptions: {
+            // sort by interestingness
+            sort: 'interestingness-desc'
+        }
+    });
+</script>
+		<p class="caption">Find high quality photos of <a href="https://www.flickr.com/search/?q=freebassel&ss=2&s=int">Freebassel on Flickr</a>.
+    </p>
+  </div>
+</div>
+
+<div class="row">
+	<div class="nine columns centered">
+		<div class="panel">
+			<h5><a name="about-letters">About Bassel</a></h5>
+		</div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="nine columns centered">
+
+		<dl class="nice contained tabs">
+			<dd><a href="#english" class="active">English</a></dd>
+			<dd><a href="#arabic" dir="rtl">العربية</a></dd>
+			<dd><a href="#japanese">日本語</a></dd>
+			<dd><a href="#francais">Français</a></dd>
+			<dd><a href="#deutsch">Deutsch</a></dd>
+			<dd><a href="#espanol">Español</a></dd>
+			<dd><a href="#italiano">Italiano</a></dd>
+			<dd><a href="#portugues">Português</a></dd>
+			<dd><a href="#nederlands">Nederlands</a></dd>
+			<dd><a href="#polski">Polski</a></dd>
+			<dd><a href="#zhtw">繁體中文</a></dd>
+			<dd><a href="#zhcn">简体中文</a></dd>
+		</dl>
+
+		<ul class="nice tabs-content contained">
+			<li class="active" id="englishTab">
+{% capture english_letter %}
+{% include letter-english.md %}
+{% endcapture %}
+{{ english_letter | unindent | markdownify }}
+			</li>
+			<li id="arabicTab" dir="rtl">
+{% capture arabic_letter %}
+{% include letter-arabic.md %}
+{% endcapture %}
+{{ arabic_letter | unindent | markdownify }}
+			</li>
+			<li id="japaneseTab">
+{% capture japanese_letter %}
+{% include letter-japanese.md %}
+{% endcapture %}
+{{ japanese_letter | unindent | markdownify }}
+			</li>
+			<li id="francaisTab">
+{% capture french_letter %}
+{% include letter-french.md %}
+{% endcapture %}
+{{ french_letter | unindent | markdownify }}
+			</li>
+			<li id="deutschTab">
+{% capture german_letter %}
+{% include letter-german.md %}
+{% endcapture %}
+{{ german_letter | unindent | markdownify }}
+			</li>
+			<li id="espanolTab">
+{% capture spanish_letter %}
+{% include letter-spanish.md %}
+{% endcapture %}
+{{ spanish_letter | unindent | markdownify }}
+			</li>
+			<li id="portuguesTab">
+{% capture portuguese_letter %}
+{% include letter-portuguese.md %}
+{% endcapture %}
+{{ portuguese_letter | unindent | markdownify }}
+			</li>
+			<li id="italianoTab">
+{% capture italian_letter %}
+{% include letter-italian.md %}
+{% endcapture %}
+{{ italian_letter | unindent | markdownify }}
+			</li>
+			<li id="nederlandsTab">
+{% capture dutch_letter %}
+{% include letter-dutch.md %}
+{% endcapture %}
+{{ dutch_letter | unindent | markdownify }}
+			</li>
+			<li id="polskiTab">
+{% capture polish_letter %}
+{% include letter-polish.md %}
+{% endcapture %}
+{{ polish_letter | unindent | markdownify }}
+			</li>
+			<li id="zhtwTab">
+{% capture zh_tw_letter %}
+{% include letter-chinese-traditional.md %}
+{% endcapture %}
+{{ zh_tw_letter | unindent | markdownify }}
+			</li>
+			<li id="zhcnTab">
+{% capture zh_cn_letter %}
+{% include letter-chinese-simplified.md %}
+{% endcapture %}
+{{ zh_cn_letter | unindent | markdownify }}
+			</li>
+		</ul>
+	</div>
+
+</div>
+
+<div class="row">
+	<div class="nine columns centered">
+		<div class="panel">
+			<h5><a name="signtheletter">Sign the letter</a></h5>
+		</div>
+	</div>
+
+</div>
+
+<div class="row">
+	<div class="nine columns centered">
+		{% include support-form.html %}
+	</div>
+</div>
+
+<div class="row">
+	<div class="nine columns centered">
+		<div class="panel">
+			<h5>Supporters</h5>
+		</div>
+		<p>{% include spreadsheet.html %}</p>
+	</div>
+</div>
