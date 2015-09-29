@@ -13,19 +13,19 @@
 	<link href="{{site.baseurl}}/assets/images/favicon.ico" title="Icon" type="image/x-icon" rel="icon" />
 
 	<title>{{site.title}} - {{page.title}}</title>
-  
+
 	{% if page.description %}
 		<meta name="description" content="{{ page.description }}">
 	{% else %}
 		<meta name="description" content="{{ site.description }}">
 	{% endif %}
-	
+
 		{% if page.tags %}
 		<meta name="keywords" content="{{page.tags | join: ', '}}" />
 		{% else %}
 		<meta name="keywords" content="{{site.keywords | join: ', '}}" />
 		{% endif %}
-  
+
  	<link rel="alternate" type="application/rss+xml" title="FREEBASSEL &raquo; Feed" href="{{site.url}}/feed.xml" />
 	<!-- Included CSS Files -->
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:800,700' rel='stylesheet' type='text/css'>
@@ -35,7 +35,7 @@
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="stylesheets/ie.css">
 	<![endif]-->
-	
+
 	<script src="{{site.baseurl}}/assets/js/vendor/modernizr.js"></script>
 	<script src="{{site.baseurl}}/assets/js/vendor/jquery.js"></script>
 	<script src="{{site.baseurl}}/galleria/src/galleria.js"></script>
@@ -84,9 +84,8 @@
 					<p><a href="https://github.com/Fabricatorz/freebassel.org">Find us on Github</a></p>
 				</div>
 			</div>
-		
+
 		</footer>
-		
 
 	</div>
 	<!-- container -->
