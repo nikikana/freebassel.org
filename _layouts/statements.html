@@ -3,19 +3,19 @@ layout: default
 ---
 
 <div class="row">
-	<div class="nine columns centered">
-	
+  <div class="medium-9 medium-centered small-centered columns">
+
 	<p>Date: {{ page.date | date: "%d %B %Y" }}</p>
 
 	<p>Filed under: <a href="{{site.baseurl}}/campaign/{{ page.categories }}">{{ page.categories }}</a></p>
-	
+
 	<hr/>
-	
+
 	<article>
 		{{ content }}
 	</article>
-	
+
 	<hr/>
-	
+
 	</div>
 </div>

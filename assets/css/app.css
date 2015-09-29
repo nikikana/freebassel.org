@@ -30,23 +30,6 @@ h1, h2, h3, h4, h5, h6 {
 	text-align: right;
 }
 
-.nice.tabs dd a {
-	font-size: 12px;
-}
-
-dl.nice.contained.tabs dd a {
-padding: 7px 7px 9px;
-}
-
-.nice.tabs dd a.active {
-	font-weight: normal;
-	margin: 0;
-}
-
-.tabs-content li p:first-child {
-	font-weight: bold;
-}
-
 .date-cell {
   width: 90px;
 }
@@ -60,8 +43,44 @@ article h6 {
 	font-size: 100%;
 }
 
+.title a{
+  color: #2A85E8;
+}
+
+
 p, blockquote {
 	line-height: 1.6em;
+}
+
+.tabs .tab-title > a {
+  font-size: small;
+  padding: 0.75rem 0.25rem 1rem;
+  background-color: transparent;
+  color: #666;
+  border-bottom: 1px dotted #EEE;
+  border-top: 3px solid white;
+}
+
+.tabs .tab-title.active a {
+  border-left: 1px solid #EEE;
+  border-right: 1px solid #EEE;
+  border-top: 3px solid #00A6FC;
+}
+
+.tabs-content {
+  border-style: solid;
+  border-color: #eee;
+  border-image: none;
+  border-width: 0px 1px 1px;
+  border-top: 1px dotted #EEE;
+}
+
+.tabs-content .content {
+  padding: 0.9375rem;
+}
+
+.tabs-content div p:first-child {
+	font-weight: bold;
 }
 
 @media only screen and (max-width: 767px) {
