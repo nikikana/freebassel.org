@@ -1,0 +1,24 @@
+<div id="galleria">
+  <p><a href="https://www.flickr.com/photos/joi/4670781482/" title="Bassel by Joi, on Flickr"><img src="https://farm5.staticflickr.com/4018/4670781482_d072301ef0_b_d.jpg" width="100%" alt="Bassel"></a></p>
+</div>
+
+<script>
+
+	// Load the classic theme
+    Galleria.loadTheme('/galleria/src/themes/classic/galleria.classic.js');
+
+    // Initialize Galleria
+    Galleria.run('#galleria', {
+
+        // search flickr for "freebassel"
+        flickr: 'search:freebassel',
+
+        flickrOptions: {
+            // sort by interestingness
+            sort: 'interestingness-desc'
+        }
+    });
+</script>
+		<p class="caption">Find high quality photos of <a href="https://www.flickr.com/search/?q=freebassel&ss=2&s=int">Freebassel on Flickr</a>.
+    </p>
+
