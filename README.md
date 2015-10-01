@@ -15,7 +15,7 @@ If you have access to the Freebassel supporters list via Google Docs, you can up
 
 To install the necessary gems, run:
 
-  bundle install
+    bundle install
 
 ## Instructions
 
@@ -27,6 +27,6 @@ Copy `config/config-sample.rb` to `config/config.rb` and fill in the Client ID, 
 
 Run the script with:
 
-  bundle exec ruby get_supporters_data.rb
+    bundle exec ruby get_supporters_data.rb
 
 Follow the instructions to authorize the application. The `_data/supporters.json` will be updated.
