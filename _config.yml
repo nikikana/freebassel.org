@@ -1,6 +1,6 @@
 title: "FREEBASSEL"
 tagline: "Campaign to FREE Bassel Khartabil"
-exclude: [README.md, LICENSE.md, designs]
+exclude: [README.md, LICENSE.md, designs, Gemfile, Gemfile.lock, config, get_supporters_data.rb]
 
 permalink: /campaign/:categories/:year/:month/:day/:title/
 

@@ -1,0 +1,30 @@
+---
+layout: default
+title: Supporters List
+---
+
+<div class="row">
+  <div class="medium-9 medium-centered small-centered columns">
+		<div class="panel">
+			<h5>Supporters</h5>
+		</div>
+
+		<table style="width:100%">
+    <tr>
+      <th>Name</th>
+      <th>Organization</th>
+      <th>City</th>
+      <th>Country</th>
+    </tr>
+    {% for supporter in site.data.supporters %}
+      <tr>
+        <td>{{ supporter.given_name }} {{ supporter.family_name }}</td>
+        <td>{{ supporter.organization }}</td>
+        <td>{{ supporter.city }}</td>
+        <td>{{ supporter.country }}</td>
+      </tr>
+		{% endfor %}
+		</table>
+
+	</div>
+</div>
