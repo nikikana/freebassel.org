@@ -14,7 +14,7 @@
    Shared Styles
 ----------------------------------------- */
 /* This rule is read by Galleria to define the gallery height: */
-#galleria{height:320px;}
+#galleria{height:660px;}
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Open Sans', sans-serif;
@@ -82,6 +82,41 @@ p, blockquote {
 .tabs-content div p:first-child {
 	font-weight: bold;
 }
+
+.alert-box {
+  background: #f7f7f7;
+  color: #333;
+  border: none;
+  border-left: 6px solid #008CBA;
+  box-shadow: 0 5px 8px -6px rgba(0, 0, 0, 0.2); }
+  .alert-box.success {
+    background: #f7f7f7;
+    color: #333; }
+  .alert-box.alert {
+    background: #f7f7f7;
+    color: #333; }
+  .alert-box.warning {
+    background: #f7f7f7;
+    color: #333; }
+  .alert-box.info {
+    background: #f7f7f7;
+    color: #333; }
+  .alert-box.small {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+    font-size: 0.75rem; }
+    .alert-box.small .close {
+      font-size: 1.5rem; }
+  .alert-box.large {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    font-size: 2rem; }
+    .alert-box.large .close {
+      font-size: 3rem; }
+  .alert-box .close {
+    font-size: 2rem;
+    line-height: 1.25rem; }
+
 
 @media only screen and (max-width: 767px) {
 		.title.h1 { font-size: 32px; font-size: 3.2rem; line-height: 1.3; }
