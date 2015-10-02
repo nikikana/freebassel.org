@@ -1,6 +1,3 @@
-[submodule "galleria"]
-	path = galleria
-	url = https://github.com/aino/galleria.git
 [submodule "js/vendor/instafeed"]
 	path = js/vendor/instafeed
 	url = https://github.com/stevenschobert/instafeed.js.git
