@@ -157,9 +157,13 @@ p, blockquote {
 
 
 /* -----------------------------------------
-   Page Name 1
+   Homepage
 ----------------------------------------- */
 
+.twitter-timeline {
+  height: 200px;
+  display: block;
+}
 
 
 
