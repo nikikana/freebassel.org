@@ -52,21 +52,20 @@
 	<!-- container -->
 	<div class="container">
 
-		<div class="row">
-			<div class="medium-9 medium-centered small-centered columns">
-        <div class="centered text-center title">
-				<h1><a href="{{site.baseurl}}/">#{{site.title}}</a></h1>
-        </div>
-			</div>
-		</div>
+<header class="header">
+  <h1 class="main-header">
+    <a href="{{site.baseurl}}/">
+      #{{site.title}}
+    </a>
+  </h1>
+  <ul class="header-subnav">
+    <li><a href="{{site.baseurl}}/">Home</a></li>
+    <li><a href="{{site.baseurl}}/campaign/letter/" class="is-active">Sign the Letter</a></li>
+    <li><a href="{{site.baseurl}}/campaign/press">News</a></li>
+  </ul>
+</header>
 
-    <div class="row">
-      <div class="medium-6 small-8 medium-centered small-centered columns">
-        <div class="centered">
-          <a href="{{site.baseurl}}/campaign/letter/" class="button round expand alert">Sign the Letter</a>
-        </div>
-      </div>
-    </div>
+    <div class="row"></div>
 
 		{{ content }}
 
