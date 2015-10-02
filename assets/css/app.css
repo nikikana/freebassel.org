@@ -147,6 +147,60 @@ p, blockquote {
     font-size: 2rem;
     line-height: 1.25rem; }
 
+.quote {
+  font-style: italic;
+  background: #ebf3f5;
+  padding: 15px 20px 5px 15px;
+  border-radius: 5px;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.quote::after {
+  content: '';
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 20px 18px 0 18px;
+  border-color: #ebf3f5 transparent transparent transparent;
+  position: absolute;
+  bottom: -10px;
+  left: 35px;
+}
+
+.expert {
+  margin-left: 25px;
+  margin-bottom: 40px;
+}
+
+.expert .photo {
+  background-color: #ccc;
+  background-position: center;
+  border-radius: 100px;
+  width: 60px;
+  height: 60px;
+  float: left;
+  margin-right: 10px;
+}
+
+.expert p {
+  position: relative;
+  top: 5px;
+  text-transform: uppercase;
+}
+
+.expert p:nth-child(2) {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 0;
+}
+
+.expert p:nth-child(3) {
+  font-size: 14px;
+  color: #777;
+}
+
+
 @media only screen and (min-width: 1020px) {
   .header .main-header {
 		font-size: 6em;
