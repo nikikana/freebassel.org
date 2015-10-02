@@ -1,0 +1,26 @@
+
+		<footer>
+
+			<div class="row">
+			<div class="medium-9 medium-centered small-centered columns">
+					<h5>About</h5>
+					{% include about.html %}
+
+					<h5>Press Release</h5>
+					{% include press.html %}
+
+					<h5>Contact</h5>
+					<p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+
+					<h5>Follow</h5>
+					<p><a href="https://twitter.com/{{ site.twitter }}">@{{ site.twitter }} on Twitter</a></p>
+					<p><a href="https://instagram.com/{{ site.instagram }}">@{{ site.instagram }} on Instagram</a></p>
+					<p><a href="https://www.facebook.com/{{ site.facebook }}">@{{ site.facebook }} on Facebook</a></p>
+					<p><a href="https://www.flickr.com/search/?q=freebassel&ss=2&s=int">#Freebassel on Flickr</a></p>
+					<p>Use the #freebassel hashtag in social media.</p>
+					<p><a href="{{site.baseurl}}/feed.xml">Read our Feed</a></p>
+					<p><a href="https://github.com/Fabricatorz/freebassel.org">Find us on Github</a></p>
+				</div>
+			</div>
+
+		</footer>
