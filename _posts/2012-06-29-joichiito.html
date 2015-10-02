@@ -9,33 +9,33 @@ categories: [ statements ]
 <div class="row">
 
 
-		<dl class="nice contained tabs">
-			<dd><a href="#english" class="active">English</a></dd>
-			<dd><a href="#arabic" dir="rtl">العربية</a></dd>
-			<dd><a href="#chinese">中文</a></dd>
-		</dl>
+    <ul class="tabs" data-tab>
+			<li class="tab-title active"><a href="#english" class="active">English</a></li>
+			<li class="tab-title"><a href="#arabic" dir="rtl">العربية</a></li>
+			<li class="tab-title"><a href="#chinese">中文</a></li>
+		</ul>
 
-		<ul class="nice tabs-content contained">
-			<li class="active" id="englishTab">
+  <div class="tabs-content">
+    <div class="content active" id="english">
 {% capture english_letter %}
 {% include support-joiito-english.md %}
 {% endcapture %}
 {{ english_letter | unindent | markdownify }}
-			</li>
+			</div>
 
-			<li id="arabicTab" dir="rtl">
+	<div class="content" id="arabic" dir="rtl">
 {% capture arabic_letter %}
 {% include support-joiito-arabic.md %}
 {% endcapture %}
 {{ arabic_letter | unindent | markdownify }}
-			</li>
-			<li id="chineseTab" dir="ltr">
+			</div>
+	<div class="content" id="chinese">
 {% capture chinese_letter %}
 {% include support-joiito-chinese.md %}
 {% endcapture %}
 {{ chinese_letter | unindent | markdownify }}
-			</li>
-		</ul>
+			</div>
+		</div>
 
 </div>
 
