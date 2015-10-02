@@ -23,7 +23,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .title h1 {
-	font-weight: 800;
+	font-weight: normal;
+  font-family: "Gochi Hand", "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
 }
 
 .caption {
@@ -41,10 +42,6 @@ article h4,
 article h5,
 article h6 {
 	font-size: 100%;
-}
-
-.title a{
-  color: #2A85E8;
 }
 
 
@@ -130,22 +127,6 @@ p, blockquote {
 @media only screen and (min-width: 1020px) {
 	.title h1 {
 		font-size: 92px;
-		text-shadow: #444 1px 1px 1px, #ddd 2px 3px 1px;
-	}
-
-	.title h1 a:hover {
-		color: #2A85E8;
-		text-shadow: #555 1px 1px 1px, #ddd 2px 5px 2px, #ddd 2px 6px 6px;
-		letter-spacing: 0.135em;
-	}
-
-	.title {
-		position: relative;
-	}
-
-	.title:hover {
-		top: -2px;
-		left: -5px;
 	}
 }
 
