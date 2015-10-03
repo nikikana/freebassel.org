@@ -29,6 +29,10 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: normal;
     font-family: "Gochi Hand", "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
     color: #666; }
+    .header .main-header a {
+      color: #ffdb3a; }
+    .header .main-header a:hover {
+      color: #fff13c; }
 
 .header-subnav {
   float: none;
