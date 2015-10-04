@@ -2,7 +2,7 @@
 
 Bassel Khartabli, 31歲、巴勒斯坦裔的敘利亞人，是一位备受尊重的电脑工程师。他所专擅的领域为互联网所奠基的开源软件(open source software)开发。他在十年前展开了其於敘利亞的事业，为许多当地的企业担任科技主任，从事诸如修复巴尔米拉(Palmyra)和敘利亞前进杂誌(Forward Syria Magazine)等计画。
 
-在那之後，Bassel 即因其对於开放性网络的坚实付出、传授他人关于科技知识、及免费提供他的经验以帮助世界等而享有盛名。Bassel是一套名为Aiki Framwork的网路开源软件的项目领导。他于在线科技社群中以作为於诸如知识共享 (Creative Commons, www.creativecommons.org ), 谋智火狐 (Mozilla Firefox, www.mozilla.org ), 维基百科 (Wikipedia, www.wikipedia.org ), 开放美工图库 (Open Clip Art Library, www.openclipart.org ), Fabricatorz创意产业制作(www.fabricatorz.com), 分享主義 (Sharism, www.sharism.org )等主要计画的一个尽心尽力的志愿者闻名。
+在那之後，Bassel 即因其对於开放性网络的坚实付出、传授他人关于科技知识、及免费提供他的经验以帮助世界等而享有盛名。Bassel是一套名为Aiki Framwork的网路开源软件的项目领导。他于在线科技社群中以作为於诸如知识共享 (Creative Commons, www.creativecommons.org ), 谋智火狐 (Mozilla Firefox, www.mozilla.org ), 维基百科 (Wikipedia, www.wikipedia.org ), 开放美工图库 (Openclipart, www.openclipart.org ), Fabricatorz创意产业制作(www.fabricatorz.com), 分享主義 (Sharism, www.sharism.org )等主要计画的一个尽心尽力的志愿者闻名。
 
 自从Bassel被捕後，无论是其於敘利亞境内或世界各地珍贵的志愿性服务皆因此而被终止。对倚赖他的社群而言，他的消失是令人心疼的。除此之外，他的家人，及原订於今年四月共结连理的未婚妻的生活皆陷入悬宕。
 
