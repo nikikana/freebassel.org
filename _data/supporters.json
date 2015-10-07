@@ -329,13 +329,6 @@
     "country": "Türkiye "
   },
   {
-    "family_name": "Aviad",
-    "given_name": "Nour",
-    "organization": "ila dil",
-    "city": "Istanbul ",
-    "country": "Türkiye "
-  },
-  {
     "family_name": "Rady",
     "given_name": "Kenza",
     "organization": "",
@@ -362,13 +355,6 @@
     "organization": "",
     "city": "Madrid",
     "country": "España"
-  },
-  {
-    "family_name": "Mohammad",
-    "given_name": "nanda",
-    "organization": "",
-    "city": "cairo ",
-    "country": "Syria "
   },
   {
     "family_name": "Mohammad",
@@ -796,13 +782,6 @@
     "organization": "",
     "city": "The Hague",
     "country": "Netherlands"
-  },
-  {
-    "family_name": "Thorne",
-    "given_name": "Michelle",
-    "organization": "Mozilla",
-    "city": "Berlin",
-    "country": "Germany"
   },
   {
     "family_name": "Mabbett",
@@ -1491,13 +1470,6 @@
     "country": ""
   },
   {
-    "family_name": "Whelan",
-    "given_name": "Darius",
-    "organization": "UCC",
-    "city": "Cork",
-    "country": "Ireland"
-  },
-  {
     "family_name": "Kawas",
     "given_name": "Milad",
     "organization": "",
@@ -1580,13 +1552,6 @@
     "organization": "",
     "city": "Toronto",
     "country": "Canada"
-  },
-  {
-    "family_name": "Najem",
-    "given_name": "Mohamad",
-    "organization": "smex.org",
-    "city": "Beirut",
-    "country": "Lebanon"
   },
   {
     "family_name": "Najem",
@@ -1967,13 +1932,6 @@
     "country": "canada "
   },
   {
-    "family_name": "mohamed",
-    "given_name": "sahar ",
-    "organization": "",
-    "city": "toronto ",
-    "country": "canada "
-  },
-  {
     "family_name": "عقاد",
     "given_name": "نازك",
     "organization": "",
@@ -2058,20 +2016,6 @@
     "country": "Taiwan"
   },
   {
-    "family_name": "Yoalli",
-    "given_name": "Ehecatl",
-    "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
-    "family_name": "ALI",
-    "given_name": "Ahmad",
-    "organization": "",
-    "city": "Paris",
-    "country": "France"
-  },
-  {
     "family_name": "ALI",
     "given_name": "Ahmad",
     "organization": "",
@@ -2105,13 +2049,6 @@
     "organization": "a",
     "city": "alreadh",
     "country": "ollaea"
-  },
-  {
-    "family_name": "ALI",
-    "given_name": "Ahmad",
-    "organization": "",
-    "city": "Paris",
-    "country": "France"
   },
   {
     "family_name": "bayazid",
@@ -2702,13 +2639,6 @@
     "country": "France"
   },
   {
-    "family_name": "Rogel",
-    "given_name": "Johan",
-    "organization": "epitech",
-    "city": "Paris",
-    "country": "France"
-  },
-  {
     "family_name": "Ruiz",
     "given_name": "Guillermina",
     "organization": "",
@@ -3010,13 +2940,6 @@
     "country": "USA"
   },
   {
-    "family_name": "Hooker",
-    "given_name": "Bill",
-    "organization": "",
-    "city": "Portland",
-    "country": "USA"
-  },
-  {
     "family_name": "Reneau",
     "given_name": "Don",
     "organization": "",
@@ -3295,13 +3218,6 @@
     "organization": "",
     "city": "",
     "country": ""
-  },
-  {
-    "family_name": "McKinnell",
-    "given_name": "Jenny",
-    "organization": "",
-    "city": "Cape Town",
-    "country": "South Africa"
   },
   {
     "family_name": "McKinnell",
@@ -3941,13 +3857,6 @@
     "country": ""
   },
   {
-    "family_name": "Craft",
-    "given_name": "Emily",
-    "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
     "family_name": "Mistry",
     "given_name": "Kristina",
     "organization": "",
@@ -4242,13 +4151,6 @@
     "country": "Australia"
   },
   {
-    "family_name": "Jonathan",
-    "given_name": "Scholes",
-    "organization": "",
-    "city": "",
-    "country": "Australia"
-  },
-  {
     "family_name": "Abid",
     "given_name": "Omar",
     "organization": "",
@@ -4310,13 +4212,6 @@
     "organization": "",
     "city": "Stockholm",
     "country": "Sweden"
-  },
-  {
-    "family_name": "Ali",
-    "given_name": "Naved",
-    "organization": "Lazyzach.com",
-    "city": "Mumbai",
-    "country": "India"
   },
   {
     "family_name": "Ali",
@@ -4529,13 +4424,6 @@
     "country": "Ukraine"
   },
   {
-    "family_name": "Baklanov",
-    "given_name": "Anton",
-    "organization": "",
-    "city": "Zaporozhye",
-    "country": "Ukraine"
-  },
-  {
     "family_name": "Garnier",
     "given_name": "Etienne",
     "organization": "",
@@ -4653,13 +4541,6 @@
     "organization": "",
     "city": "Forlì",
     "country": "Italy"
-  },
-  {
-    "family_name": "Fernandes",
-    "given_name": "Hugo",
-    "organization": "",
-    "city": "Lisboa",
-    "country": "Portugal"
   },
   {
     "family_name": "Fernandes",
@@ -4914,13 +4795,6 @@
     "country": "France"
   },
   {
-    "family_name": "TIBERGHIEN",
-    "given_name": "Jacques",
-    "organization": "",
-    "city": "Annecy",
-    "country": "France"
-  },
-  {
     "family_name": "Rhodes",
     "given_name": "Kay",
     "organization": "",
@@ -5075,25 +4949,11 @@
     "country": "United States"
   },
   {
-    "family_name": "Arnold",
-    "given_name": "Roger",
-    "organization": "",
-    "city": "Seligman",
-    "country": "United States"
-  },
-  {
     "family_name": "fefe",
     "given_name": "trtr",
     "organization": "",
     "city": "",
     "country": ""
-  },
-  {
-    "family_name": "Arnold",
-    "given_name": "Roger",
-    "organization": "",
-    "city": "Seligman",
-    "country": "United States"
   },
   {
     "family_name": "MD",
@@ -5236,13 +5096,6 @@
     "country": "FRANCE"
   },
   {
-    "family_name": "BOUY",
-    "given_name": "Michel",
-    "organization": "ANTIKOR",
-    "city": "ROMANS SUR ISERE",
-    "country": "FRANCE"
-  },
-  {
     "family_name": "Guillaumie",
     "given_name": "Philippe",
     "organization": "",
@@ -5252,13 +5105,6 @@
   {
     "family_name": "LEFEBVRE",
     "given_name": "Thomas",
-    "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
-    "family_name": "Davidson",
-    "given_name": "Stephen",
     "organization": "",
     "city": "",
     "country": ""
@@ -5495,13 +5341,6 @@
     "country": "Usa"
   },
   {
-    "family_name": "Linde",
-    "given_name": "Erik",
-    "organization": "Liberty City Media LLC",
-    "city": "New York",
-    "country": "Usa"
-  },
-  {
     "family_name": "Molteni",
     "given_name": "Giovanni",
     "organization": "EDUCATION",
@@ -5628,13 +5467,6 @@
     "country": ""
   },
   {
-    "family_name": "Lewko",
-    "given_name": "Raf",
-    "organization": "",
-    "city": "Utrecht",
-    "country": "The Netherlands"
-  },
-  {
     "family_name": "Kerkeni",
     "given_name": "Nizar",
     "organization": "",
@@ -5645,13 +5477,6 @@
     "family_name": "BILLION",
     "given_name": "Sébastien",
     "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
-    "family_name": "Tuinstra",
-    "given_name": "Dwight",
-    "organization": "Vermont Technical College",
     "city": "",
     "country": ""
   },
@@ -5796,13 +5621,6 @@
     "country": ""
   },
   {
-    "family_name": "Courtney",
-    "given_name": "Ben",
-    "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
     "family_name": "Hwang",
     "given_name": "Meena",
     "organization": "",
@@ -5885,13 +5703,6 @@
     "organization": "",
     "city": "Utrecht",
     "country": "The Netherlands"
-  },
-  {
-    "family_name": "Farrell",
-    "given_name": "Richard",
-    "organization": "",
-    "city": "Davis",
-    "country": "United States"
   },
   {
     "family_name": "Farrell",
@@ -6125,13 +5936,6 @@
     "country": "Mexico"
   },
   {
-    "family_name": "Galperin",
-    "given_name": "Eva",
-    "organization": "Electronic Frontier Foundation",
-    "city": "San Francisco",
-    "country": "United States"
-  },
-  {
     "family_name": "Minton",
     "given_name": "Julia",
     "organization": "Appropriate Technology Solutions",
@@ -6356,13 +6160,6 @@
     "country": "USA"
   },
   {
-    "family_name": "Hergueux",
-    "given_name": "Jérôme",
-    "organization": "Berkman Center",
-    "city": "Cambridge",
-    "country": "USA"
-  },
-  {
     "family_name": "Fragasso",
     "given_name": "Stefano",
     "organization": "",
@@ -6557,13 +6354,6 @@
     "organization": "XS4ALL",
     "city": "Amsterdam",
     "country": "Netherlands"
-  },
-  {
-    "family_name": "Greve",
-    "given_name": "Ava",
-    "organization": "ISOC-Bulgaria",
-    "city": "Sofia",
-    "country": "Bulgaria"
   },
   {
     "family_name": "Greve",
@@ -6825,27 +6615,6 @@
     "country": "Italy"
   },
   {
-    "family_name": "Amoretti",
-    "given_name": "Marco",
-    "organization": "",
-    "city": "",
-    "country": "Italy"
-  },
-  {
-    "family_name": "Amoretti",
-    "given_name": "Marco",
-    "organization": "",
-    "city": "",
-    "country": "Italy"
-  },
-  {
-    "family_name": "Muylaert",
-    "given_name": "Dietrich",
-    "organization": "",
-    "city": "Gent",
-    "country": "Belgium"
-  },
-  {
     "family_name": "Muylaert",
     "given_name": "Dietrich",
     "organization": "",
@@ -6865,20 +6634,6 @@
     "organization": "",
     "city": "",
     "country": "France"
-  },
-  {
-    "family_name": "Hertgers",
-    "given_name": "André",
-    "organization": "",
-    "city": "Groningen",
-    "country": "Netherlands"
-  },
-  {
-    "family_name": "Hertgers",
-    "given_name": "André",
-    "organization": "",
-    "city": "Groningen",
-    "country": "Netherlands"
   },
   {
     "family_name": "Hertgers",
@@ -6991,13 +6746,6 @@
     "organization": "Mozilla",
     "city": "Worcester",
     "country": "United Kingdom"
-  },
-  {
-    "family_name": "Gorman",
-    "given_name": "Michael John",
-    "organization": "sciencegallery.com",
-    "city": "Dublin",
-    "country": "Ireland"
   },
   {
     "family_name": "Gorman",
@@ -7168,13 +6916,6 @@
     "country": "Canada"
   },
   {
-    "family_name": "Alsalti",
-    "given_name": "Khaled",
-    "organization": "",
-    "city": "Ottawa",
-    "country": "Canada"
-  },
-  {
     "family_name": "Isaacson",
     "given_name": "Eitan",
     "organization": "",
@@ -7222,13 +6963,6 @@
     "organization": "Nono",
     "city": "Seoul",
     "country": "South Korea"
-  },
-  {
-    "family_name": "Truong",
-    "given_name": "Andrew",
-    "organization": "NodeFlame Web Solutions",
-    "city": "Edmonton, ",
-    "country": "Canada"
   },
   {
     "family_name": "Truong",
@@ -7574,13 +7308,6 @@
     "country": "The Netherlands"
   },
   {
-    "family_name": "van den Burg",
-    "given_name": "Eric",
-    "organization": "ProChange",
-    "city": "Amersfoort",
-    "country": "The Netherlands"
-  },
-  {
     "family_name": "van Geest",
     "given_name": "Ted",
     "organization": "GoedGedaan",
@@ -7819,13 +7546,6 @@
     "country": ""
   },
   {
-    "family_name": "Zwitser",
-    "given_name": "Peter",
-    "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
     "family_name": "No",
     "given_name": "Ja",
     "organization": "",
@@ -7866,13 +7586,6 @@
     "organization": "Muhammad Syafiq Mazli",
     "city": "Kuala Lumpur",
     "country": "Malaysia"
-  },
-  {
-    "family_name": "Sprague",
-    "given_name": "Reid",
-    "organization": "",
-    "city": "",
-    "country": ""
   },
   {
     "family_name": "Sprague",
@@ -8162,25 +7875,11 @@
     "country": "Macedonia"
   },
   {
-    "family_name": "Stankov",
-    "given_name": "Boban",
-    "organization": "",
-    "city": "Skopje",
-    "country": "Macedonia"
-  },
-  {
     "family_name": "Piccirillo",
     "given_name": "Danny",
     "organization": "Free Software Foundation",
     "city": "Amherst",
     "country": "USA"
-  },
-  {
-    "family_name": "State",
-    "given_name": "Adrian",
-    "organization": "",
-    "city": "Witney",
-    "country": "UK"
   },
   {
     "family_name": "State",
@@ -8216,13 +7915,6 @@
     "organization": "Andries Information Services",
     "city": "livingston",
     "country": "USA"
-  },
-  {
-    "family_name": "Chisholm",
-    "given_name": "Gordon",
-    "organization": "the internet",
-    "city": "glasgow",
-    "country": "scotland"
   },
   {
     "family_name": "Chisholm",
@@ -8533,13 +8225,6 @@
     "country": "Canada"
   },
   {
-    "family_name": "Hayden",
-    "given_name": "Kevin",
-    "organization": "",
-    "city": "Markham",
-    "country": "Canada"
-  },
-  {
     "family_name": "Watt",
     "given_name": "Jonathan",
     "organization": "",
@@ -8659,13 +8344,6 @@
     "country": "Netherlands"
   },
   {
-    "family_name": "Ekelmans",
-    "given_name": "Arthur",
-    "organization": "",
-    "city": "Amsterdam",
-    "country": "Netherlands"
-  },
-  {
     "family_name": "jim",
     "given_name": "ikan",
     "organization": "",
@@ -8734,20 +8412,6 @@
     "organization": "",
     "city": "Sioux Falls",
     "country": "United States"
-  },
-  {
-    "family_name": "Gilbert",
-    "given_name": "Sherwin",
-    "organization": "",
-    "city": "Sioux Falls",
-    "country": "United States"
-  },
-  {
-    "family_name": "van der Werff",
-    "given_name": "Maarten",
-    "organization": "",
-    "city": "Rotterdam",
-    "country": "Netherlands"
   },
   {
     "family_name": "van der Werff",
@@ -8853,20 +8517,6 @@
     "organization": "Baksia",
     "city": "Spikkestad",
     "country": "Norway"
-  },
-  {
-    "family_name": "Reidar",
-    "given_name": "Sollid",
-    "organization": "Baksia",
-    "city": "Spikkestad",
-    "country": "Norway"
-  },
-  {
-    "family_name": "werkman",
-    "given_name": "arno robin",
-    "organization": "",
-    "city": "willemstad ",
-    "country": "curacao"
   },
   {
     "family_name": "werkman",
@@ -9191,13 +8841,6 @@
     "country": "New Zealand"
   },
   {
-    "family_name": "McPhail",
-    "given_name": "Lex",
-    "organization": "",
-    "city": "Christchurch",
-    "country": "New Zealand"
-  },
-  {
     "family_name": "Chudziec",
     "given_name": "Marek",
     "organization": "MSZ",
@@ -9266,13 +8909,6 @@
     "organization": "",
     "city": "Nijmegen",
     "country": "Netherlands"
-  },
-  {
-    "family_name": "vanArdenne",
-    "given_name": "Sen",
-    "organization": "Artist",
-    "city": "Arnhem",
-    "country": "The Netherlnds"
   },
   {
     "family_name": "vanArdenne",
@@ -9450,25 +9086,11 @@
     "country": "The Netherlands"
   },
   {
-    "family_name": "Winter",
-    "given_name": "Hemma",
-    "organization": "globalcaching.eu",
-    "city": "Arnhem",
-    "country": "Netherlands"
-  },
-  {
     "family_name": "Hafkamp",
     "given_name": "Niek",
     "organization": "",
     "city": "",
     "country": "The Netherlands"
-  },
-  {
-    "family_name": "Ionescu",
-    "given_name": "Daniel",
-    "organization": "",
-    "city": "Boldesti-Scaeni",
-    "country": "Romania"
   },
   {
     "family_name": "Ionescu",
@@ -9758,13 +9380,6 @@
     "country": ""
   },
   {
-    "family_name": "aa van der",
-    "given_name": "ingeborg",
-    "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
     "family_name": "Khoeblal",
     "given_name": "C.jay",
     "organization": "",
@@ -9798,13 +9413,6 @@
     "organization": "",
     "city": "Malmoe",
     "country": "Sweden"
-  },
-  {
-    "family_name": "Rampadarath",
-    "given_name": "Sarwan",
-    "organization": "",
-    "city": "Wanica",
-    "country": "Suriname"
   },
   {
     "family_name": "Rampadarath",
@@ -10122,20 +9730,6 @@
     "country": "germany"
   },
   {
-    "family_name": "oldenburg",
-    "given_name": "sonja",
-    "organization": "",
-    "city": "",
-    "country": "germany"
-  },
-  {
-    "family_name": "Schwiegert",
-    "given_name": "Ole",
-    "organization": "",
-    "city": "",
-    "country": "Germany"
-  },
-  {
     "family_name": "Schwiegert",
     "given_name": "Ole",
     "organization": "",
@@ -10283,13 +9877,6 @@
     "country": "KSA"
   },
   {
-    "family_name": "Banadr",
-    "given_name": "Fahid",
-    "organization": "Dz-devloper",
-    "city": "Riyadh",
-    "country": "KSA"
-  },
-  {
     "family_name": "Polidori",
     "given_name": "Andrea",
     "organization": "",
@@ -10308,13 +9895,6 @@
     "given_name": "Georg",
     "organization": "",
     "city": "Dresden",
-    "country": "Germany"
-  },
-  {
-    "family_name": "Schipke",
-    "given_name": "Martin",
-    "organization": "German Red Cross",
-    "city": "Braunschweig",
     "country": "Germany"
   },
   {
@@ -10449,41 +10029,6 @@
     "organization": "",
     "city": "",
     "country": ""
-  },
-  {
-    "family_name": "Kohl",
-    "given_name": "Marvin",
-    "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
-    "family_name": "Kohl",
-    "given_name": "Marvin",
-    "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
-    "family_name": "Drueppel",
-    "given_name": "Lukas",
-    "organization": "",
-    "city": "",
-    "country": "Germany"
-  },
-  {
-    "family_name": "Drueppel",
-    "given_name": "Lukas",
-    "organization": "",
-    "city": "",
-    "country": "Germany"
-  },
-  {
-    "family_name": "Drueppel",
-    "given_name": "Lukas",
-    "organization": "",
-    "city": "",
-    "country": "Germany"
   },
   {
     "family_name": "Drueppel",
@@ -10654,13 +10199,6 @@
     "country": "Germany"
   },
   {
-    "family_name": "Joe",
-    "given_name": "Sanchez",
-    "organization": "joeswebmarket",
-    "city": "Littleton",
-    "country": "USA"
-  },
-  {
     "family_name": "Yeates",
     "given_name": "Padraig",
     "organization": "National Union of Journalists",
@@ -10673,13 +10211,6 @@
     "organization": "",
     "city": "",
     "country": ""
-  },
-  {
-    "family_name": "Holger",
-    "given_name": "Grobschick",
-    "organization": "",
-    "city": "Frankfurt",
-    "country": "Germany"
   },
   {
     "family_name": "Holger",
@@ -10766,25 +10297,11 @@
     "country": "USA"
   },
   {
-    "family_name": "Amy",
-    "given_name": "T.",
-    "organization": "",
-    "city": "San Francisco",
-    "country": "USA"
-  },
-  {
     "family_name": "Padres",
     "given_name": "Hector",
     "organization": "--",
     "city": "Hermosillo, Sonora, ",
     "country": "MEXICO"
-  },
-  {
-    "family_name": "Sturm",
-    "given_name": "Tom",
-    "organization": "",
-    "city": "",
-    "country": "Germany"
   },
   {
     "family_name": "Sturm",
@@ -11067,13 +10584,6 @@
     "country": "U S A"
   },
   {
-    "family_name": "Willstead",
-    "given_name": "Douglsa",
-    "organization": "",
-    "city": "Phoenix",
-    "country": "U S A"
-  },
-  {
     "family_name": "Mol",
     "given_name": "Marjo",
     "organization": "",
@@ -11193,13 +10703,6 @@
     "country": "Britain"
   },
   {
-    "family_name": "Munsey",
-    "given_name": "James",
-    "organization": "",
-    "city": "Leicester",
-    "country": "Britain"
-  },
-  {
     "family_name": "Brenton",
     "given_name": "Scott",
     "organization": "",
@@ -11305,13 +10808,6 @@
     "country": ""
   },
   {
-    "family_name": "Pressel",
-    "given_name": "Georg",
-    "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
     "family_name": "Stramler",
     "given_name": "Kirstie",
     "organization": "",
@@ -11331,13 +10827,6 @@
     "organization": "FacilitatingChange.org",
     "city": "Montreal",
     "country": "Canada"
-  },
-  {
-    "family_name": "Millard",
-    "given_name": "Rodney",
-    "organization": "Bionics Institute",
-    "city": "Melbourne",
-    "country": "Australia"
   },
   {
     "family_name": "Millard",
@@ -11394,13 +10883,6 @@
     "organization": "Религиозная организация - Московская Марьинорощинская Еврейская Община",
     "city": "Москва",
     "country": "Россия"
-  },
-  {
-    "family_name": "Foerster",
-    "given_name": "Jens",
-    "organization": "",
-    "city": "The Hague",
-    "country": "Netherlands"
   },
   {
     "family_name": "Foerster",
@@ -11613,13 +11095,6 @@
     "country": "Germany"
   },
   {
-    "family_name": "Neu",
-    "given_name": "Sebastian",
-    "organization": "",
-    "city": "Munich",
-    "country": "Germany"
-  },
-  {
     "family_name": "Lima Malheiro",
     "given_name": "Wille Marcel",
     "organization": "UFRB",
@@ -11632,13 +11107,6 @@
     "organization": "",
     "city": "Bucharest",
     "country": "Romania"
-  },
-  {
-    "family_name": "Duffy",
-    "given_name": "Máirín",
-    "organization": "The Fedora Project",
-    "city": "Cambridge, MA",
-    "country": "USA"
   },
   {
     "family_name": "Duffy",
@@ -11739,13 +11207,6 @@
     "country": ""
   },
   {
-    "family_name": "Drees",
-    "given_name": "Johannes",
-    "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
     "family_name": "Mars",
     "given_name": "Pim",
     "organization": "",
@@ -11788,13 +11249,6 @@
     "country": "Netherlands"
   },
   {
-    "family_name": "Rietdijk",
-    "given_name": "Thonia",
-    "organization": "",
-    "city": "Rozenburg",
-    "country": "Netherlands"
-  },
-  {
     "family_name": "Arellanes",
     "given_name": "Douglas",
     "organization": "Sourcefabric, o.p.s.",
@@ -11814,13 +11268,6 @@
     "organization": "",
     "city": "Rotterdam",
     "country": "Netherlands"
-  },
-  {
-    "family_name": "Durechova",
-    "given_name": "Katarina",
-    "organization": "",
-    "city": "Praha",
-    "country": "Czech Republic"
   },
   {
     "family_name": "Durechova",
@@ -11949,13 +11396,6 @@
     "country": "USA"
   },
   {
-    "family_name": "Pamela Neely",
-    "given_name": "Neely",
-    "organization": "Nassau Inmate Advocacy Group ",
-    "city": "Brooklyn",
-    "country": "USA"
-  },
-  {
     "family_name": "Neethling",
     "given_name": "Schalk",
     "organization": "Mozilla",
@@ -12010,27 +11450,6 @@
     "organization": "",
     "city": "",
     "country": "Netherlands"
-  },
-  {
-    "family_name": "Demuynck",
-    "given_name": "Alexandre",
-    "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
-    "family_name": "Demuynck",
-    "given_name": "Alexandre",
-    "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
-    "family_name": "Demuynck",
-    "given_name": "Alexandre",
-    "organization": "",
-    "city": "",
-    "country": ""
   },
   {
     "family_name": "Demuynck",
@@ -12121,13 +11540,6 @@
     "given_name": "Jeff",
     "organization": "N/A",
     "city": "Alpena",
-    "country": "USA"
-  },
-  {
-    "family_name": "Johnston",
-    "given_name": "Darrel",
-    "organization": "",
-    "city": "",
     "country": "USA"
   },
   {
@@ -12320,13 +11732,6 @@
     "country": ""
   },
   {
-    "family_name": "Drees",
-    "given_name": "Johannes",
-    "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
     "family_name": "Broer-LeRoux",
     "given_name": "David",
     "organization": "",
@@ -12439,13 +11844,6 @@
     "country": ""
   },
   {
-    "family_name": "Vincent",
-    "given_name": "Hermance",
-    "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
     "family_name": "Newcom",
     "given_name": "Meredith",
     "organization": "",
@@ -12486,13 +11884,6 @@
     "organization": "",
     "city": "Portland",
     "country": "USA"
-  },
-  {
-    "family_name": "Ryan",
-    "given_name": "Alexander",
-    "organization": "",
-    "city": "San Francisco",
-    "country": "United States"
   },
   {
     "family_name": "Ryan",
@@ -12663,13 +12054,6 @@
     "country": "USA"
   },
   {
-    "family_name": "Ashlock",
-    "given_name": "Benjamin",
-    "organization": "San Francisco Art Institute",
-    "city": "San Francisco",
-    "country": "USA"
-  },
-  {
     "family_name": "Moalla",
     "given_name": "Ahmad",
     "organization": "",
@@ -12831,13 +12215,6 @@
     "country": "Norway"
   },
   {
-    "family_name": "Mangelaars",
-    "given_name": "Tamara",
-    "organization": "Kennisland",
-    "city": "Amsterdam",
-    "country": "The Netherlands"
-  },
-  {
     "family_name": "Alexandra",
     "given_name": "Nick",
     "organization": "Al Jazeera English",
@@ -12850,20 +12227,6 @@
     "organization": "",
     "city": "Roma",
     "country": "Italia"
-  },
-  {
-    "family_name": "Carlo",
-    "given_name": "Giuliano",
-    "organization": "",
-    "city": "Roma",
-    "country": "Italia"
-  },
-  {
-    "family_name": "Nakagawa",
-    "given_name": "Koji",
-    "organization": "Government official",
-    "city": "Nagoya",
-    "country": "Japan"
   },
   {
     "family_name": "Nakagawa",
@@ -12885,20 +12248,6 @@
     "organization": "",
     "city": "Chimalhuacán",
     "country": "México"
-  },
-  {
-    "family_name": "Nakagawa",
-    "given_name": "Koji",
-    "organization": "Government official",
-    "city": "",
-    "country": ""
-  },
-  {
-    "family_name": "Nakagawa",
-    "given_name": "Koji",
-    "organization": "Government official",
-    "city": "Nagoya",
-    "country": "Japan"
   },
   {
     "family_name": "Nakagawa",
@@ -12969,13 +12318,6 @@
     "organization": "",
     "city": "zaandam",
     "country": "netherlands"
-  },
-  {
-    "family_name": "Broekhuijsen",
-    "given_name": "Sjoerd",
-    "organization": "",
-    "city": "Dronten",
-    "country": "The Netherlands"
   },
   {
     "family_name": "Broekhuijsen",
@@ -13139,13 +12481,6 @@
     "country": "Syria"
   },
   {
-    "family_name": "JARRAH",
-    "given_name": "RAMI",
-    "organization": "ANA New Media Association",
-    "city": "Damascus",
-    "country": "Syria"
-  },
-  {
     "family_name": "gans",
     "given_name": "jonathan",
     "organization": "",
@@ -13279,13 +12614,6 @@
     "country": "Netherlands"
   },
   {
-    "family_name": "Schmitz",
-    "given_name": "Theo",
-    "organization": "",
-    "city": "Ohe en Laak",
-    "country": "Netherlands"
-  },
-  {
     "family_name": "Lin Van",
     "given_name": "Marti",
     "organization": "",
@@ -13340,13 +12668,6 @@
     "organization": "Fundacion Karisma",
     "city": "Bogota",
     "country": "Colombia"
-  },
-  {
-    "family_name": "van der Hel",
-    "given_name": "Margreet",
-    "organization": "",
-    "city": "Venlo",
-    "country": "Nederland"
   },
   {
     "family_name": "van der Hel",
@@ -13475,13 +12796,6 @@
     "country": "Germany"
   },
   {
-    "family_name": "Tempel",
-    "given_name": "Christopher",
-    "organization": "",
-    "city": "Dresden",
-    "country": "Germany"
-  },
-  {
     "family_name": "HAN",
     "given_name": "SUNKYUNG",
     "organization": "Hope Institute",
@@ -13557,13 +12871,6 @@
     "organization": "university utrecht",
     "city": "utrecht",
     "country": "Netherlands"
-  },
-  {
-    "family_name": "Helmy",
-    "given_name": "Mohanad",
-    "organization": "",
-    "city": "London",
-    "country": "England"
   },
   {
     "family_name": "Helmy",
@@ -13753,13 +13060,6 @@
     "organization": "MIT Media Lab",
     "city": "Cambridge, MA",
     "country": "USA"
-  },
-  {
-    "family_name": "Kroell",
-    "given_name": "Rodger",
-    "organization": "",
-    "city": "Ventura",
-    "country": "United States"
   },
   {
     "family_name": "Fitzsimon",
@@ -14070,13 +13370,6 @@
     "country": "Brazil"
   },
   {
-    "family_name": "Longo",
-    "given_name": "Ícaro",
-    "organization": "",
-    "city": "Ilhéus",
-    "country": "Brazil"
-  },
-  {
     "family_name": "Jaarsveld",
     "given_name": "John",
     "organization": "",
@@ -14203,13 +13496,6 @@
     "country": "Taiwan"
   },
   {
-    "family_name": "LIN",
-    "given_name": "DAISY",
-    "organization": "Amnesty Taiwan",
-    "city": "Taipei",
-    "country": "Taiwan"
-  },
-  {
     "family_name": "Su",
     "given_name": "Sean",
     "organization": "Amnesty International Taiwan",
@@ -14299,20 +13585,6 @@
     "organization": "",
     "city": "Kaohsiung City",
     "country": "Taiwan"
-  },
-  {
-    "family_name": "CHEN",
-    "given_name": "Ying-Chen",
-    "organization": "",
-    "city": "Kaohsiung City",
-    "country": "Taiwan"
-  },
-  {
-    "family_name": "Andriessen",
-    "given_name": "Thea",
-    "organization": "",
-    "city": "Amsterdam",
-    "country": "Netherlands"
   },
   {
     "family_name": "Molenaar",
@@ -14441,13 +13713,6 @@
     "country": "USA"
   },
   {
-    "family_name": "Chung",
-    "given_name": "Chih-Ping",
-    "organization": "Harvard Medical School",
-    "city": "Boston",
-    "country": "USA"
-  },
-  {
     "family_name": "bachmann",
     "given_name": "jorge",
     "organization": "",
@@ -14499,13 +13764,6 @@
   {
     "family_name": "Johann",
     "given_name": "Meyer",
-    "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
-    "family_name": "Menzer",
-    "given_name": "Mathias",
     "organization": "",
     "city": "",
     "country": ""
@@ -14572,13 +13830,6 @@
     "organization": "University of Southern California",
     "city": "Los Angeles",
     "country": "United States"
-  },
-  {
-    "family_name": "Andronico",
-    "given_name": "Giusj",
-    "organization": "",
-    "city": "Perugia",
-    "country": "Italy"
   },
   {
     "family_name": "Andronico",
@@ -14726,13 +13977,6 @@
     "organization": "",
     "city": "Santa Barbara",
     "country": "United States"
-  },
-  {
-    "family_name": "Tius",
-    "given_name": "Luca",
-    "organization": "",
-    "city": "Tavarnelle Val di Pesa",
-    "country": "Italy"
   },
   {
     "family_name": "Tius",
@@ -14936,20 +14180,6 @@
     "organization": "",
     "city": "",
     "country": "Syria"
-  },
-  {
-    "family_name": "Zreik",
-    "given_name": "Khaldoun",
-    "organization": "",
-    "city": "Paris",
-    "country": "France"
-  },
-  {
-    "family_name": "Zreik",
-    "given_name": "Khaldoun",
-    "organization": "",
-    "city": "Paris",
-    "country": "France"
   },
   {
     "family_name": "Dirks",
@@ -15321,13 +14551,6 @@
     "organization": "",
     "city": "Bochum",
     "country": "Germany"
-  },
-  {
-    "family_name": "Giannopoulou",
-    "given_name": "Alexandra",
-    "organization": "",
-    "city": "Paris",
-    "country": "France"
   },
   {
     "family_name": "Giannopoulou",
@@ -15897,13 +15120,6 @@
     "country": "Germany"
   },
   {
-    "family_name": "Witte",
-    "given_name": "J.",
-    "organization": "",
-    "city": "Aachen",
-    "country": "Germany"
-  },
-  {
     "family_name": "Tabet",
     "given_name": "Krystel",
     "organization": "",
@@ -15944,13 +15160,6 @@
     "organization": "",
     "city": "Amsterdam",
     "country": "The Netherlands"
-  },
-  {
-    "family_name": "Kenny",
-    "given_name": "Sean",
-    "organization": "Bristol Wireless",
-    "city": "Bristol",
-    "country": "UK"
   },
   {
     "family_name": "Kenny",
@@ -16114,25 +15323,11 @@
     "country": "Algeria"
   },
   {
-    "family_name": "FAREH",
-    "given_name": "Abdelhak",
-    "organization": "",
-    "city": "Medea",
-    "country": "Algeria"
-  },
-  {
     "family_name": "Huldt",
     "given_name": "Christian",
     "organization": "",
     "city": "Runmarö",
     "country": "Sverige"
-  },
-  {
-    "family_name": "Bass",
-    "given_name": "Charli",
-    "organization": "",
-    "city": "Perth",
-    "country": "Australia"
   },
   {
     "family_name": "Bass",
@@ -16247,20 +15442,6 @@
     "country": "Australia"
   },
   {
-    "family_name": "Obeid",
-    "given_name": "Sarrah",
-    "organization": "",
-    "city": "Sydney",
-    "country": "Australia"
-  },
-  {
-    "family_name": "Obeid",
-    "given_name": "Sarrah",
-    "organization": "",
-    "city": "Sydney",
-    "country": "Australia"
-  },
-  {
     "family_name": "lennon",
     "given_name": "michael",
     "organization": "",
@@ -16301,13 +15482,6 @@
     "organization": "startup",
     "city": "sydney",
     "country": "australia"
-  },
-  {
-    "family_name": "jedou",
-    "given_name": "ahmed",
-    "organization": "",
-    "city": "Nouakchott",
-    "country": "Nouakchott"
   },
   {
     "family_name": "jedou",
@@ -16392,13 +15566,6 @@
     "organization": "",
     "city": "Ottawa",
     "country": "Canada"
-  },
-  {
-    "family_name": "BASILICI",
-    "given_name": "LUIGINA",
-    "organization": "",
-    "city": "ROMA",
-    "country": "ITALIA"
   },
   {
     "family_name": "BASILICI",
@@ -16499,13 +15666,6 @@
     "country": "United Kingdom"
   },
   {
-    "family_name": "Ruiz",
-    "given_name": "Guillermina",
-    "organization": "",
-    "city": "",
-    "country": "Argentina"
-  },
-  {
     "family_name": "Conconi",
     "given_name": "Antonio",
     "organization": "Université de Sherbrooke",
@@ -16532,13 +15692,6 @@
     "organization": "",
     "city": "sydney",
     "country": "australia"
-  },
-  {
-    "family_name": "Nobre",
-    "given_name": "Teresa",
-    "organization": "Creative Commons Portugal",
-    "city": "Lisboa",
-    "country": "Portugal"
   },
   {
     "family_name": "Simoes",
@@ -16616,13 +15769,6 @@
     "organization": "Occupy",
     "city": "Columbia",
     "country": "USA"
-  },
-  {
-    "family_name": "FAREH",
-    "given_name": "Abdelhak",
-    "organization": "",
-    "city": "Medea",
-    "country": "Algeria"
   },
   {
     "family_name": "Nahhas",
@@ -17318,13 +16464,6 @@
     "country": "Italy"
   },
   {
-    "family_name": "Giliberto",
-    "given_name": "Luciano",
-    "organization": "",
-    "city": "Palermo",
-    "country": "Italy"
-  },
-  {
     "family_name": "Ferri",
     "given_name": "Francesco",
     "organization": "",
@@ -17344,13 +16483,6 @@
     "organization": "",
     "city": "Piove di sacco",
     "country": "Italy"
-  },
-  {
-    "family_name": "Kasa",
-    "given_name": "Admir",
-    "organization": "privat",
-    "city": "Tirana",
-    "country": "Albania"
   },
   {
     "family_name": "Kasa",
@@ -17556,13 +16688,6 @@
     "country": "Spain"
   },
   {
-    "family_name": "Redegoso",
-    "given_name": "Alessio",
-    "organization": "",
-    "city": "",
-    "country": "Spain"
-  },
-  {
     "family_name": "Uliari",
     "given_name": "Stefano",
     "organization": "mindigno.com ",
@@ -17689,13 +16814,6 @@
     "country": "Denmark"
   },
   {
-    "family_name": "Darlie",
-    "given_name": "Henrik",
-    "organization": "AA",
-    "city": "Copenhagen",
-    "country": "Denmark"
-  },
-  {
     "family_name": "davies",
     "given_name": "j[",
     "organization": "none",
@@ -17757,13 +16875,6 @@
     "organization": "",
     "city": "Padova",
     "country": "Italy"
-  },
-  {
-    "family_name": "Threw",
-    "given_name": "Barry",
-    "organization": "Fabricatorz",
-    "city": "San Francisco",
-    "country": "USA"
   },
   {
     "family_name": "Sheldahl",
@@ -17920,13 +17031,6 @@
     "country": "Canada"
   },
   {
-    "family_name": "Domna",
-    "given_name": "Julia",
-    "organization": "freeman",
-    "city": "Toronto",
-    "country": "Canada"
-  },
-  {
     "family_name": "Gaunt",
     "given_name": "Clare",
     "organization": "Freelancer",
@@ -18009,13 +17113,6 @@
     "organization": "",
     "city": "",
     "country": "Canada"
-  },
-  {
-    "family_name": "Bouldadakis",
-    "given_name": "Georgia",
-    "organization": "",
-    "city": "Glen Iris, Victoria",
-    "country": "Australia"
   },
   {
     "family_name": "Bouldadakis",
@@ -18347,13 +17444,6 @@
     "country": "United States of America"
   },
   {
-    "family_name": "Fink",
-    "given_name": "Geraldine ",
-    "organization": "American Citizen",
-    "city": "Mount Pleasant ",
-    "country": "United States of America"
-  },
-  {
     "family_name": "Sapata Carbonell",
     "given_name": "Alexandre",
     "organization": "Estado de Santa Catarina",
@@ -18457,20 +17547,6 @@
     "organization": "",
     "city": "",
     "country": ""
-  },
-  {
-    "family_name": "Al Rifai",
-    "given_name": "Oussama",
-    "organization": "",
-    "city": "Abu Dhabi",
-    "country": "UAE"
-  },
-  {
-    "family_name": "Al Rifai",
-    "given_name": "Oussama",
-    "organization": "",
-    "city": "Abu Dhabi",
-    "country": "UAE"
   },
   {
     "family_name": "Haltiwanger",
@@ -18613,13 +17689,6 @@
     "country": "Perú"
   },
   {
-    "family_name": "Collao",
-    "given_name": "Maria Belen",
-    "organization": "",
-    "city": "Lima",
-    "country": "Perú"
-  },
-  {
     "family_name": "Patterson",
     "given_name": "Nick",
     "organization": "",
@@ -18709,13 +17778,6 @@
     "organization": "Parti Pirate FR",
     "city": "Rennes",
     "country": "France"
-  },
-  {
-    "family_name": "Fedda",
-    "given_name": "Yasmin",
-    "organization": "",
-    "city": "London",
-    "country": "UK"
   },
   {
     "family_name": "Kangasniemi",
@@ -19047,13 +18109,6 @@
     "country": "USA"
   },
   {
-    "family_name": "Farrell",
-    "given_name": "Susan",
-    "organization": "",
-    "city": "Portland",
-    "country": "USA"
-  },
-  {
     "family_name": "Hart",
     "given_name": "Elle",
     "organization": "xitsec",
@@ -19103,13 +18158,6 @@
     "country": "FRANCE"
   },
   {
-    "family_name": "SIMON",
-    "given_name": "Catherine",
-    "organization": "",
-    "city": "Montreuil",
-    "country": "FRANCE"
-  },
-  {
     "family_name": "Blaser",
     "given_name": "Claudia",
     "organization": "",
@@ -19150,13 +18198,6 @@
     "organization": "",
     "city": "Sandnes",
     "country": "Norway"
-  },
-  {
-    "family_name": "Eggleton",
-    "given_name": "Martyn",
-    "organization": "",
-    "city": "Sheffield",
-    "country": "UK"
   },
   {
     "family_name": "Delalleau",
@@ -19439,41 +18480,6 @@
     "country": "USA"
   },
   {
-    "family_name": "Alberdingkthijm",
-    "given_name": "Yvette",
-    "organization": "WITNESS",
-    "city": "New York ",
-    "country": "USA"
-  },
-  {
-    "family_name": "Alberdingkthijm",
-    "given_name": "Yvette",
-    "organization": "WITNESS",
-    "city": "New York ",
-    "country": "USA"
-  },
-  {
-    "family_name": "Alberdingkthijm",
-    "given_name": "Yvette",
-    "organization": "WITNESS",
-    "city": "New York ",
-    "country": "USA"
-  },
-  {
-    "family_name": "Alberdingkthijm",
-    "given_name": "Yvette",
-    "organization": "WITNESS",
-    "city": "New York ",
-    "country": "USA"
-  },
-  {
-    "family_name": "Giannatou",
-    "given_name": "Evi",
-    "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
     "family_name": "Giannatou",
     "given_name": "Evi",
     "organization": "",
@@ -19549,13 +18555,6 @@
     "organization": "",
     "city": "berlin",
     "country": "germany"
-  },
-  {
-    "family_name": "Cotte",
-    "given_name": "André",
-    "organization": "",
-    "city": "LaSalle",
-    "country": "Canada"
   },
   {
     "family_name": "Tompkins",
@@ -19649,13 +18648,6 @@
     "country": ""
   },
   {
-    "family_name": "Hicks",
-    "given_name": "Thomas",
-    "organization": "",
-    "city": "Windsor",
-    "country": "UK"
-  },
-  {
     "family_name": "Behling",
     "given_name": "Mario",
     "organization": "Independent",
@@ -19719,13 +18711,6 @@
     "country": ""
   },
   {
-    "family_name": "Moradell",
-    "given_name": "Alexandre",
-    "organization": "",
-    "city": "",
-    "country": ""
-  },
-  {
     "family_name": "Bussinger",
     "given_name": "Aadel",
     "organization": "",
@@ -19775,20 +18760,6 @@
     "country": "Iran"
   },
   {
-    "family_name": "Hello",
-    "given_name": "Hi",
-    "organization": "",
-    "city": "",
-    "country": "Iran"
-  },
-  {
-    "family_name": "Hello",
-    "given_name": "Hi",
-    "organization": "",
-    "city": "",
-    "country": "Iran"
-  },
-  {
     "family_name": "ITWorld",
     "given_name": "WorldWindow",
     "organization": "",
@@ -19810,20 +18781,6 @@
     "country": "Iran"
   },
   {
-    "family_name": "Into",
-    "given_name": "Lag",
-    "organization": "",
-    "city": "",
-    "country": "Iran"
-  },
-  {
-    "family_name": "Gate",
-    "given_name": "Form",
-    "organization": "",
-    "city": "",
-    "country": "Iran"
-  },
-  {
     "family_name": "Gate",
     "given_name": "Form",
     "organization": "",
@@ -19836,13 +18793,6 @@
     "organization": "",
     "city": "Rotterdam",
     "country": "the Netherlands"
-  },
-  {
-    "family_name": "Gate",
-    "given_name": "Form",
-    "organization": "",
-    "city": "",
-    "country": "Iran"
   },
   {
     "family_name": "Boulton",
@@ -19978,20 +18928,6 @@
     "country": ""
   },
   {
-    "family_name": "Gate",
-    "given_name": "Form",
-    "organization": "",
-    "city": "",
-    "country": "Iran"
-  },
-  {
-    "family_name": "Gate",
-    "given_name": "Form",
-    "organization": "",
-    "city": "",
-    "country": "Iran"
-  },
-  {
     "family_name": "Steer",
     "given_name": "Zana",
     "organization": "",
@@ -20018,13 +18954,6 @@
     "organization": "",
     "city": "Chihuahua",
     "country": "Mexico"
-  },
-  {
-    "family_name": "Stewart",
-    "given_name": "Ian",
-    "organization": "BIGMENTION",
-    "city": "Wichita",
-    "country": "United States"
   },
   {
     "family_name": "Stewart",
@@ -20258,13 +19187,6 @@
     "country": "egypt"
   },
   {
-    "family_name": "Nessem",
-    "given_name": "Mohamed",
-    "organization": "mozilla ",
-    "city": "cairo",
-    "country": "egypt"
-  },
-  {
     "family_name": "العمري",
     "given_name": "الهام",
     "organization": "Jordan university of science and technology",
@@ -20291,13 +19213,6 @@
     "organization": "",
     "city": "Amman",
     "country": "Jordan"
-  },
-  {
-    "family_name": "tamimi",
-    "given_name": "omar",
-    "organization": "mozilla",
-    "city": "amman",
-    "country": "jordan"
   },
   {
     "family_name": "tamimi",
@@ -20459,13 +19374,6 @@
     "organization": "",
     "city": "Panama City Florida ",
     "country": "USA"
-  },
-  {
-    "family_name": "homann",
-    "given_name": "frank",
-    "organization": "",
-    "city": "granada",
-    "country": "Spain"
   },
   {
     "family_name": "chapman",
