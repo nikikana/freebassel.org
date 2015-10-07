@@ -42,7 +42,9 @@ supporters = responses.map do |row|
   }
 end
 
+unique_supporters = supporters.uniq
+
 # Write the supporters list as JSON into the _data directory
 File.open("_data/supporters.json", "w") do |f|
-  f.write(JSON.pretty_generate(supporters))
+  f.write(JSON.pretty_generate(unique_supporters))
 end
