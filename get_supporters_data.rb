@@ -5,8 +5,16 @@ require_relative "config/config.rb"
 
 # Generate an access token
 def generate_access_token(client_id, client_secret)
-  auth = generate_client_authorization(client_id, client_secret)
-  prompt_for_access_token(auth)
+  # Check if the access token is cached, or prompt for a new one
+  begin
+    require File.join(File.dirname(__FILE__), 'config', 'secret_token')
+    GOOGLE_ACCESS_TOKEN
+  rescue Exception => e
+    auth = generate_client_authorization(client_id, client_secret)
+    access_token = prompt_for_access_token(auth)
+    save_access_token(access_token)
+    access_token
+  end
 end
 
 # Set up client authorization
@@ -31,6 +39,16 @@ def prompt_for_access_token(auth)
   auth.code = $stdin.gets.chomp
   auth.fetch_access_token!
   auth.access_token
+end
+
+# Save access token
+def save_access_token(access_token)
+  open(File.join(File.dirname(__FILE__), 'config', 'secret_token.rb'), 'w+') do |f|
+    f.puts <<-"EOS"
+GOOGLE_ACCESS_TOKEN = "#{access_token}"
+EOS
+    f.flush
+  end
 end
 
 # Create a session
