@@ -15,17 +15,17 @@ categories: [ statements ]
 
   <div class="tabs-content">
     <div class="content active" id="english">
-				  {% capture english_letter %}
-					{% include support-lessig-english.md %}
-				  {% endcapture %}
-				  {{ english_letter | unindent | markdownify }}
+{% capture english_letter %}
+{% include support-lessig-english.md %}
+{% endcapture %}
+{{ english_letter | unindent | markdownify }}
     </div>
 
 	<div class="content" id="chinese">
-				  {% capture chinese_letter %}
-					{% include support-lessig-chinese.md %}
-				  {% endcapture %}
-				  {{ chinese_letter | unindent | markdownify }}
+{% capture chinese_letter %}
+{% include support-lessig-chinese.md %}
+{% endcapture %}
+{{ chinese_letter | unindent | markdownify }}
     </div>
   </div>
 
