@@ -25,7 +25,7 @@ def generate_client_authorization(client_id, client_secret)
   auth.client_secret = client_secret
 
   auth.scope = [
-    "https://www.googleapis.com/auth/drive"
+    "https://www.googleapis.com/auth/drive.readonly"
   ]
 
   auth.redirect_uri = "urn:ietf:wg:oauth:2.0:oob"
