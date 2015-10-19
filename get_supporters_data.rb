@@ -5,19 +5,20 @@ require_relative "config/config.rb"
 
 # Generate an access token
 def generate_access_token(client_id, client_secret)
-  # Check if the access token is cached, or prompt for a new one
-  begin
-    require File.join(File.dirname(__FILE__), 'config', 'secret_token')
-    GOOGLE_ACCESS_TOKEN
-  rescue Exception => e
-    auth = generate_client_authorization(client_id, client_secret)
-    auth.code = prompt_for_auth_code(auth)
-    auth.fetch_access_token!
-    access_token = auth.access_token
+  auth = generate_client_authorization(client_id, client_secret)
 
-    save_access_token(access_token)
-    access_token
+  # Check if the refresh token exists, or prompt for a new code
+  if File.exists?('config/refresh_token.rb')
+    require File.join(File.dirname(__FILE__), 'config', 'refresh_token')
+    auth.refresh_token = GOOGLE_REFRESH_TOKEN
+  else
+    auth.code = prompt_for_auth_code(auth)
   end
+
+  auth.fetch_access_token!
+
+  save_refresh_token(auth.refresh_token)
+  auth.access_token
 end
 
 # Set up client authorization
@@ -42,11 +43,12 @@ def prompt_for_auth_code(auth)
   $stdin.gets.chomp
 end
 
-# Save access token
-def save_access_token(access_token)
-  open(File.join(File.dirname(__FILE__), 'config', 'secret_token.rb'), 'w+') do |f|
+# Save refresh token
+def save_refresh_token(token)
+  filename = 'refresh_token.rb'
+  open(File.join(File.dirname(__FILE__), 'config', filename), 'w+') do |f|
     f.puts <<-"EOS"
-GOOGLE_ACCESS_TOKEN = "#{access_token}"
+GOOGLE_REFRESH_TOKEN = "#{token}"
 EOS
     f.flush
   end

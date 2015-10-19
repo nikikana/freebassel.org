@@ -1,4 +1,4 @@
 _site
 Gemfile.lock
 config/config.rb
-config/secret_token.rb
+config/refresh_token.rb
