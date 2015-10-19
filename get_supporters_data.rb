@@ -11,7 +11,10 @@ def generate_access_token(client_id, client_secret)
     GOOGLE_ACCESS_TOKEN
   rescue Exception => e
     auth = generate_client_authorization(client_id, client_secret)
-    access_token = prompt_for_access_token(auth)
+    auth.code = prompt_for_auth_code(auth)
+    auth.fetch_access_token!
+    access_token = auth.access_token
+
     save_access_token(access_token)
     access_token
   end
@@ -32,13 +35,11 @@ def generate_client_authorization(client_id, client_secret)
   auth
 end
 
-# Prompt the user to authorize the app
-def prompt_for_access_token(auth)
+# Prompt the user to authorize the app, return authorization code
+def prompt_for_auth_code(auth)
   print("1. Open this page:\n%s\n\n" % auth.authorization_uri)
   print("2. Enter the authorization code shown in the page: ")
-  auth.code = $stdin.gets.chomp
-  auth.fetch_access_token!
-  auth.access_token
+  $stdin.gets.chomp
 end
 
 # Save access token
