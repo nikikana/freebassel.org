@@ -24,6 +24,24 @@ FREEBASSEL is a campaign to bring about the safe and immediate release of Bassel
 
 The site will compile and run at http://localhost:4000
 
+### Adding news articles
+
+To add a news article, create a file in the `_posts` directory, and name the file using this pattern:
+
+    _posts/YYYY-MM-DD-domain.html
+
+At the top of the file, add the frontmatter, following this template:
+
+    ---
+    layout: press
+    title: "ARTICLE TITLE"
+    source: "WEBSITE NAME"
+    link: URL
+    categories: [ press ]
+    ---
+
+If you have time, copy the HTML of the news article and paste it below the frontmatter.
+
 ### Updating the supporters list
 
 If you have access to the Freebassel supporters list via Google Docs, you can update it with a script.
