@@ -4,20 +4,29 @@ FREEBASSEL is a campaign to bring about the safe and immediate release of Bassel
 
 [freebassel.org](http://freebassel.org)
 
-# Updating the supporters list
+## Development
 
-If you have access to the Freebassel supporters list via Google Docs, you can update it with a script.
-
-## Requirements
+### Requirements
 
 * Ruby
 * Bundler
+* Jekyll
 
-To install the necessary gems, run:
+### Installation
 
+    git clone https://github.com/Fabricatorz/freebassel.org
+    cd freebassel.org
     bundle install
 
-## Instructions
+### Run the site in development mode
+
+    jekyll serve
+
+The site will compile and run at http://localhost:4000
+
+### Updating the supporters list
+
+If you have access to the Freebassel supporters list via Google Docs, you can update it with a script.
 
 Create a Google API client ID and secret, as per these instructions:
 
