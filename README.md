@@ -9,8 +9,8 @@ FREEBASSEL is a campaign to bring about the safe and immediate release of Bassel
 ### Requirements
 
 * Ruby
-* Bundler
-* Jekyll
+* [Bundler](http://bundler.io/)
+* [Jekyll](http://jekyllrb.com/docs/installation/)
 
 ### Installation
 
