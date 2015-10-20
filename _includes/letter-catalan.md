@@ -1,4 +1,6 @@
-El 15 de març de 2012, Bassel Khartabil va ser detingut en el context d'una onada de detencions al districte de Mazzeh de Damasc. Actualment, es troba detingut a la presó d'Adra de Damasc pel govern sirià.
+El 15 de març de 2012, Bassel Khartabil va ser detingut en el context d'una onada de detencions al districte de Mazzeh de Damasc.
+Fins a l'octubre de 2015, es trobava reclòs a la presó d'Adra de Damasc pel govern sirià.
+Es desconeix el seu parador actual.
 
 Bassel Khartabil, un sirià palestí de 31 anys, és un respectat enginyer informàtic especialitzat en el desenvolupament de programari de codi obert, el tipus de codi sobre els quals es basa Internet. Va iniciar la seva carrera fa deu anys a Síria, on va treballar com a director tècnic d'una sèrie d'empreses locals en projectes culturals com la restauració de Palmira i la revista Forward Syria Magazine.
 

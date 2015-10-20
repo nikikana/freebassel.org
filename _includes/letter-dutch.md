@@ -1,4 +1,6 @@
-Op 15 maart 2012 werd Bassel Khartabil aangehouden tijdens een golf van arrestaties in het Mazzeh-district van Damascus. Momenteel wordt hij door de Syrische regering gevangen gehouden in de Adra gevangenis in Damascus.
+Op 15 maart 2012 werd Bassel Khartabil aangehouden tijdens een golf van arrestaties in het Mazzeh-district van Damascus.
+Tot oktober 2015 werd hij door de Syrische regering vastgehouden in de Adra gevangenis in Damascus.
+Niemand weet waar hij zich nu bevindt.
 
 Bassel Khartabil, een 31-jarige Palestijnse Syriër, is een vooraanstaand softwareontwikkelaar die gespecialiseerd is in open-source software dat een belangrijke bijdrage levert aan de ontwikkeling van het internet. Tien jaar geleden begon hij zijn loopbaan in Syrië, waar hij werkte als technisch directeur voor lokale bedrijven die zich richtten op culturele projecten zoals Restoring Palmyra en Forward Syria Magazine.
 
