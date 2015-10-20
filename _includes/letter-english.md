@@ -1,4 +1,6 @@
-On March 15, 2012, Bassel Khartabil was detained in a wave of arrests in the Mazzeh district of Damascus. He is currently being held at Adra Prison in Damascus by the Syrian government.
+On March 15, 2012, Bassel Khartabil was detained in a wave of arrests in the Mazzeh district of Damascus.
+Until October 2015, he was being held at Adra Prison in Damascus by the Syrian government.
+His current whereabouts are unknown.
 
 Bassel Khartabil, a Palestinian-Syrian, 31, is a respected computer engineer specializing in open source software development, the type of contributions the Internet is built upon. He launched his career ten years ago in Syria, working as a technical director for a number of local companies on cultural projects like restoring Palmyra and Forward Syria Magazine. 
 
