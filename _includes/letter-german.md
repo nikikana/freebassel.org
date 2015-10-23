@@ -1,4 +1,6 @@
-Am 15. März 2012 wurde Bassel Khartabil im Rahmen einer Verhaftungswelle im Mazzeh-Bezirk von Damaskus festgenommen. Er wird derzeit in Adra-Gefängnis in Damaskus von der syrischen Regierung festgehalten.
+Am 15. März 2012 wurde Bassel Khartabil im Rahmen einer Verhaftungswelle im Mazzeh-Bezirk von Damaskus festgenommen.
+Bis Oktober 2015 wurde er im Adra-Gefängnis in Damaskus von der syrischen Regierung festgehalten.
+Sein aktueller Aufenthaltsort ist nicht bekannt.
 
 Bassel Khartabil, ein 31-jähriger palästinensischer Syrer, ist ein anerkannter IT-Ingenieur auf dem Gebiet der offenen Software-Entwicklung, auf deren Basis das Internet geschaffen wurde. Er begann seine Karriere vor 10 Jahren in Syrien und arbeitete als Technischer Direktor für mehrere einheimische Firmen an Kulturprojekten wie der Wiederherstellung von Palmyra und dem „Forward Syria Magazine“.
 
