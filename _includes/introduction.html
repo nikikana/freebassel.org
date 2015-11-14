@@ -10,6 +10,7 @@
 	<li class="tab-title"><a href="#portugues">Português</a></li>
 	<li class="tab-title"><a href="#nederlands">Nederlands</a></li>
 	<li class="tab-title"><a href="#polski">Polski</a></li>
+	<li class="tab-title"><a href="#russian">Русский</a></li>
 	<li class="tab-title"><a href="#zhtw">繁體中文</a></li>
 	<li class="tab-title"><a href="#zhcn">简体中文</a></li>
 </ul>
@@ -80,6 +81,12 @@
 {% include letter-polish.md %}
 {% endcapture %}
 {{ polish_letter | unindent | markdownify }}
+	</div>
+	<div class="content" id="russian">
+{% capture russian_letter %}
+{% include letter-russian.md %}
+{% endcapture %}
+{{ russian_letter | unindent | markdownify }}
 	</div>
 	<div class="content" id="zhtw">
 {% capture zh_tw_letter %}
