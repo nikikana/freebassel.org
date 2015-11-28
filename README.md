@@ -54,6 +54,16 @@ Copy `config/config-sample.rb` to `config/config.rb` and fill in the Client ID, 
 
 Run the script with:
 
-    bundle exec ruby get_supporters_data.rb
+    rake update_supporters_list
 
 Follow the instructions to authorize the application. The `_data/supporters.json` will be updated.
+
+### Updating the change.org petition data.
+
+You'll need an API key from [change.org](https://change.org). You can find instructions [here](https://www.change.org/developers/api-key).
+
+Set the value of CHANGE_ORG_API_KEY in config.rb.
+
+Run the rake task with
+
+    rake fetch_change_org_petition

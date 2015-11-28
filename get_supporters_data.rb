@@ -1,8 +1,6 @@
 require "google/api_client"
 require "google_drive"
 
-require_relative "config/config.rb"
-
 # Generate an access token
 def generate_access_token(client_id, client_secret)
   auth = generate_client_authorization(client_id, client_secret)
@@ -82,15 +80,4 @@ def generate_supporters_list(worksheet)
 
   # Remove duplicates
   supporters.uniq
-end
-
-# Main
-access_token = generate_access_token(GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET)
-session = create_session(access_token)
-worksheet = fetch_worksheet(session, GOOGLE_SPREADSHEET_KEY)
-supporters = generate_supporters_list(worksheet)
-
-# Write the supporters list as JSON into the _data directory
-File.open("_data/supporters.json", "w") do |f|
-  f.write(JSON.pretty_generate(supporters))
 end
