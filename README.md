@@ -14,7 +14,7 @@ FREEBASSEL is a campaign to bring about the safe and immediate release of Bassel
 
 ### Installation
 
-    git clone https://github.com/Fabricatorz/freebassel.org
+    git clone https://github.com/freebassel/freebassel.org
     cd freebassel.org
     bundle install
 
