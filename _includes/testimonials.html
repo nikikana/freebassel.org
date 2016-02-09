@@ -7,7 +7,7 @@
   {% endif %}
 
       <div class="medium-6 small-12 columns testimonial">
-        <div class="quote" data-equalizer-watch>
+        <div id="{{ testimonial.name | slugify }}" class="quote" data-equalizer-watch>
           <p>{{ testimonial.quote }}</p>
         </div>
       <div class="expert">
