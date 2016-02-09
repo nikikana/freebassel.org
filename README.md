@@ -51,7 +51,7 @@ To add a new notable quote to the homepage, edit the `_data/testimonials.yaml` f
       quote: "QUOTE"
       image: IMAGE_URL
 
-The image should around 75 × 75px, and can be saved locally in the `/assets/images/photos/` directory.
+The image should be at least 60px in either dimension and have the subject in the center (The smallest square Flickr photos of 75 × 75px work perfectly). You can save the image locally in the `/assets/images/photos/` directory.
 
 ### Updating the supporters list
 
