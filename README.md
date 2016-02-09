@@ -42,6 +42,17 @@ At the top of the file, add the frontmatter, following this template:
 
 If you have time, copy the HTML of the news article and paste it below the frontmatter.
 
+### Adding testimonials
+
+To add a new notable quote to the homepage, edit the `_data/testimonials.yaml` file, and add a new entry, following this template:
+
+    - name: NAME
+      affiliation: POSITION, ORGANIZATION
+      quote: "QUOTE"
+      image: IMAGE_URL
+
+The image should around 75 × 75px, and can be saved locally in the `/assets/images/photos/` directory.
+
 ### Updating the supporters list
 
 If you have access to the Freebassel supporters list via Google Docs, you can update it with a script.
