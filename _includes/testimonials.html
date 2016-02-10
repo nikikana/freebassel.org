@@ -6,7 +6,13 @@
     <div class="row" data-equalizer>
   {% endif %}
 
-      <div class="medium-6 small-12 columns testimonial">
+      {% if thecycle == 'odd' and forloop.last %}
+        {% assign medium_cols = 'medium-12' %}
+      {% else %}
+        {% assign medium_cols = 'medium-6' %}
+      {% endif %}
+
+      <div class="{{ medium_cols }} small-12 columns testimonial">
         <div id="{{ testimonial.name | slugify }}" class="quote" data-equalizer-watch>
           <p>{{ testimonial.quote }}</p>
         </div>
