@@ -18,6 +18,16 @@
   quote: "These freedoms and the Universal Declaration in which they are now enshrined serve as a beacon... for prisoners of conscience who still long for their freedom, such as Bassel Khartabil of Syria"
   image: /assets/images/photos/16694015945_a3afe7a6ee_q.jpg
 
+- name: Ryan Merkley
+  affiliation: CEO, Creative Commons
+  quote: "We honor Bassel and his contributions to Creative Commons. And we stand with our peers in the free software and free culture communities in demanding that he be freed."
+  image: /assets/images/photos/22022238209_b3aef8e8bb.jpg
+
+- name: Jimmy Wales
+  affiliation: Founder, Wikipedia
+  quote: "Bassel distinguished himself on the global stage as a passionate advocate for free knowledge in the Arab world, pushing for greater inclusion, translation and exchange of ideas."
+  image: /assets/images/photos/2112615614_c81e30326f_s.jpg
+
 - name: Mitchell Baker
   affiliation: Executive Chair, Mozilla Corporation
   quote: "Mozilla supports efforts to obtain the release of Bassel Khartabil."
@@ -27,3 +37,8 @@
   affiliation: the free encyclopedia
   quote: "Bassel Khartabil is a Syrian Wikipedian and a passionate advocate for free knowledge."
   image: /assets/images/photos/103px-Wikipedia-logo-v2.svg.png
+
+- name: Creative Commons
+  affiliation: Board of Directors
+  quote: "Mr. Khartabil’s contributions to Creative Commons have always inspired collaboration, community, and the sharing of culture and knowledge... his activism and involvement in the CC community and open internet community is deeply missed"
+  image: /assets/images/photos/cc.large.png
