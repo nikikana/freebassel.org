@@ -12,6 +12,7 @@
         </div>
       <div class="expert">
           <div class="photo" style="background-image: url('{{ testimonial.image }}'); background-size: cover;"> </div>
+          {% if testimonial.credit %} <!-- Image {{testimonial.credit }} --> {% endif %}
           <p>{{ testimonial.name }}</p>
           <p>{{ testimonial.affiliation }}</p>
         </div>
