@@ -6363,6 +6363,41 @@
     "country": ""
   },
   {
+    "family_name": "Johnson",
+    "given_name": "Petar",
+    "organization": "Googong Nursery",
+    "city": "canberra",
+    "country": "australia"
+  },
+  {
+    "family_name": "Lugowski",
+    "given_name": "Marek",
+    "organization": "private citizen",
+    "city": "Chicago",
+    "country": "United States"
+  },
+  {
+    "family_name": "bellotto",
+    "given_name": "francesca",
+    "organization": "",
+    "city": "pordenone",
+    "country": "italy"
+  },
+  {
+    "family_name": "Bos",
+    "given_name": "Dick",
+    "organization": "Wikipedia Netherlands",
+    "city": "Amersfoort",
+    "country": "Netherlands"
+  },
+  {
+    "family_name": "Jones",
+    "given_name": "Derek",
+    "organization": "",
+    "city": "Seattle",
+    "country": "United States"
+  },
+  {
     "family_name": "Trometer",
     "given_name": "Dana",
     "organization": "",
