@@ -134,6 +134,7 @@ p, blockquote {
     color: #333; }
   .alert-box.info {
     background: #f7f7f7;
+    border-color: #a8a8a8;
     color: #333; }
   .alert-box.small {
     padding-top: 0.25rem;
