@@ -5,10 +5,10 @@ exclude: [README.md, LICENSE.md, designs, Gemfile, Gemfile.lock, config, get_sup
 permalink: /campaign/:categories/:year/:month/:day/:title/
 
 name: FREEBASSEL
-description: "#FREEBASSEL is a campaign to bring about the safe and immediate release of Bassel Khartabil from wrongful detainment in Syria since March 2012. He is a well known contributor to global software and culture communities like Creative Commons, Mozilla Firefox, Wikipedia, Openclipart, and Fabricatorz, and Sharism. He is missed by these communities, his family, friends and loved ones. The campaign says, We will not stop campaigning for him until we see him as a free global citizen once again."
+description: "#FREEBASSEL is a campaign to free loved technology innovator Bassel Khartabil missing since March 15, 2012."
 url: http://freebassel.org
 
-keywords: ['freebassel', 'basselkhartabil ', 'basselsafadi', 'bassel', 'syria', 'damascus', 'creativecommons', 'freeculture', 'sharing', 'sharism']
+keywords: ['freebassel', 'basselkhartabil ', 'basselsafadi', 'bassel', 'whereisbassel', 'syria', 'damascus', 'creativecommons', 'freeculture', 'sharing', 'sharism']
 
 email: info@freebassel.org
 twitter: freebassel
