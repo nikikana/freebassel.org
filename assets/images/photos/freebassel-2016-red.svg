@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1024"
-   height="1024"
+   width="614.13867"
+   height="868.95831"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="freebassel-2016-red-square.svg"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="freebassel-2016-red.svg"
    inkscape:export-filename="/home/rejon/Documents/freebassel/infosheet/freebassel-infosheet-2016-red.png"
    inkscape:export-xdpi="87.574409"
    inkscape:export-ydpi="87.574409">
@@ -28,8 +28,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.32178182"
-     inkscape:cx="475.71306"
-     inkscape:cy="384.32209"
+     inkscape:cx="-234.21817"
+     inkscape:cy="303.39624"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,8 +38,8 @@
      inkscape:guide-bbox="true"
      inkscape:window-width="1096"
      inkscape:window-height="866"
-     inkscape:window-x="591"
-     inkscape:window-y="128"
+     inkscape:window-x="166"
+     inkscape:window-y="8"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
      inkscape:snap-page="true"
@@ -49,14 +49,18 @@
      inkscape:bbox-paths="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-midpoints="false"
-     inkscape:object-nodes="true">
+     inkscape:object-nodes="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
     <sodipodi:guide
        orientation="1,0"
-       position="46.146927,828.44722"
+       position="-158.78374,747.52137"
        id="guide3404" />
     <sodipodi:guide
        orientation="1,0"
-       position="708.55463,590.46219"
+       position="503.62396,509.53634"
        id="guide3418" />
   </sodipodi:namedview>
   <metadata
@@ -75,15 +79,15 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-28.362183)">
+     transform="translate(-204.93067,-102.47805)">
     <text
        sodipodi:linespacing="125%"
        id="text3422"
        y="1010.4899"
        x="470.03125"
-       style="font-size:105.95076752px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:105.95076752px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         style="font-size:35px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;font-family:Work Sans;-inkscape-font-specification:Work Sans Medium"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:35px;line-height:125%;font-family:'Work Sans';-inkscape-font-specification:'Work Sans Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
          y="1010.4899"
          x="470.03125"
          id="tspan3424"

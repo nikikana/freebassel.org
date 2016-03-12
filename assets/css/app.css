@@ -30,10 +30,20 @@ h1, h2, h3, h4, h5, h6 {
 	letter-spacing: 0.12em;
 }
 
+.photo-header {
+  background: url("/assets/images/photos/8558340807_c13a5292fa_o.jpg") no-repeat center center;
+  background-size: cover;
+}
+
+.svg-header {
+  background: url("/assets/images/photos/freebassel-2016-red.svg") no-repeat center center;
+  background-size: 90%;
+  max-width: 70rem;
+  margin: 0 auto;
+}
+
 .header {
   text-align: center;
-  background: url("/assets/images/photos/freebassel-2016-red-square.svg") no-repeat center center;
-  background-size: cover;
   margin-bottom: 1rem;
   padding: 4rem 1rem; }
   
