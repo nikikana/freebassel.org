@@ -25,14 +25,17 @@ h1, h2, h3, h4, h5, h6 {
   background-size: cover;
   margin-bottom: 1rem;
   padding: 4rem 1rem; }
-  .header .main-header {
+  
+.header .main-header {
     font-weight: 900;
     font-family: "Work Sans", "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
     text-shadow: #444 1px 1px 1px;
-    color: #666; }
-    .header .main-header a {
+    color: #666; 
+    text-transform: none;	
+}
+.header .main-header a {
       color: #ffdb3a; }
-    .header .main-header a:hover {
+.header .main-header a:hover {
       color: #fff13c; }
 
 .header-subnav {
