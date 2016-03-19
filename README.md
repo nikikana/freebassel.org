@@ -42,6 +42,17 @@ At the top of the file, add the frontmatter, following this template:
 
 If you have time, copy the HTML of the news article and paste it below the frontmatter.
 
+### Adding events
+
+Events go in the `_posts` directory just like news, but use the
+following frontmatter:
+
+    ---
+    layout: events
+    title: "Event Title"
+    categories: [ events ]
+    ---
+
 ### Adding testimonials
 
 To add a new notable quote to the homepage, edit the `_data/testimonials.yaml` file, and add a new entry, following this template:
