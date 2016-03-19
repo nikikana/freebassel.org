@@ -15,42 +15,10 @@ hashtag <a href="https://twitter.com/hashtag/whereisbassel?src=hash">#WhereIsBas
 	<p>
 We need volunteers to help us out and organise March 2016 events:
 	</p>
-	<h5><small>{{ '2016-03-09' | date: "%d %h %Y" }}</small></h5>
-	<p>
-Deadline for #whereisbassel logo design competition visit us now and
-submit your design: <a href="https://openclipart.org/freebassel2016">https://openclipart.org/freebassel2016</a>
-	</p>
-	<h5><small>{{ '2016-03-15' | date: "%d %h %Y" }}</small></h5>
-	<p>
-For March 15, 2016, the FREEBASSEL Campaign is joining forces with the 
-Jimmy Wales Foundation to create a day of awareness under the tag 
-#WhereIsBassel. Jimmy Wales is providing unbelievable support for 
-Bassel, his plight for freedom and for the FREEBASSEL Campaign. 
-	</p>
-	<h5><small>{{ '2016-03-19' | date: "%d %h %Y" }}</small></h5>
-	<p>
-JOIN US 19th March FOR A GLOBAL PROTEST
-EVENT <a href="https://www.facebook.com/hashtag/freebassel?source=feed_text&story_id=969116143168452">‪#‎freebassel‬</a>
-along with
-the <a href="https://www.facebook.com/JimmyWalesFoundation/">Jimmy
-	    Wales Foundation</a> & the support of the amazing <a href="https://www.facebook.com/pages/Jimmy-Wales/105595929475293">Jimmy Wales</a>
-	</p>
-	<p>
-Please join us on the streets in your city
-<a href="https://www.facebook.com/events/1585961515027211/">https://www.facebook.com/events/1585961515027211/</a>
-	</p>
-
-<h5>GLOBAL PROTEST ON MARCH 19! Details <a href="https://www.facebook.com/events/1585961515027211/" target="_blank">HERE</a></h5>
-<ul>
-<li><strong><a href="https://www.facebook.com/events/921383364649233/" target="_blank">London</a>:&nbsp;Marble Arch at 2pm.</strong>
-<li><strong><a href="https://www.facebook.com/events/199940690370370/" target="_blank">Paris</a>:&nbsp;Centre Georges Pompidou at 2pm.</strong>
-<li><strong><a href="https://www.facebook.com/events/515230938663059/" target="_blank">Berlin</a>:&nbsp;Alexanderplatz Berlin at 2pm.</strong>
-<li><strong><a href="https://www.facebook.com/events/231411853871589/" target="_blank">San Francisco</a>:&nbsp;Music Concourse, Golden Gate Park at 12pm.</strong>
-<li><strong><a href="https://www.facebook.com/events/828955133899896/" target="_blank">Boston</a>:&nbsp;The Copley Square at 3pm.</strong>
-</ul>
-	<p>
-contact us at <a href="mailto:info@freebassel.org">info@freebassel.org</a> for any queries
-	</p>
+        {% for post in site.categories.whereisbassel reversed %}
+	<h5><small>{{ post.date | date: "%d %h %Y" }}</small></h5>
+        {{ post.content }}
+        {% endfor %}
     </div>
   </div>
 </div>
