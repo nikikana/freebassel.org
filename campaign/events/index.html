@@ -11,7 +11,7 @@ title: Events
 		</div>
 
 		<table style="width:100%">
-		{% for post in site.categories.events limit:5 %}
+		{% for post in site.categories.events %}
 
 		<tr><td class="date-cell">{{ post.date | date: "%d&nbsp;%b&nbsp;%Y" }}</td><td><a href="{{site.baseurl}}{{post.url}}"><strong>{{post.title}}</strong></a> </td></tr>
 
