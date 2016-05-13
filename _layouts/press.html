@@ -5,13 +5,18 @@ layout: default
 <div class="row">
   <div class="small-12 columns">
 
+    <div class="alert-box info">
 	<p>Date: {{ page.date | date: "%d %B %Y" }}</p>
 	<p>Source: <a href="{{ page.link }}">{{ page.source }}</a></p>
 	<p>Filed under: <a href="/campaign/{{ page.categories }}">{{ page.categories }}</a></p>
-
-	<hr/>
+    </div>
 
 	<article>
+          <h3>
+            <a href="{{ page.link }}">
+              {{ page.title }}
+            </a>
+          </h3>
 		{{ content }}
 	</article>
 
