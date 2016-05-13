@@ -12,10 +12,7 @@ hashtag <a href="https://twitter.com/hashtag/whereisbassel?src=hash">#WhereIsBas
 	<p>
         <a href="https://github.com/freebassel/2016-whereisbassel/archive/master.zip" class="button success">Download ZIP</a>
 	</p>
-	<p>
-We need volunteers to help us out and organise March 2016 events:
-	</p>
-        {% for post in site.categories.whereisbassel reversed %}
+        {% for post in site.categories.whereisbassel limit:1 %}
 	<h5><small>{{ post.date | date: "%d %h %Y" }}</small></h5>
         {{ post.content }}
         {% endfor %}
