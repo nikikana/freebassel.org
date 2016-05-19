@@ -40,6 +40,8 @@ At the top of the file, add the frontmatter, following this template:
     categories: [ press ]
     ---
 
+Press posts may not have any more categories other than `press`.
+
 If you have time, copy the HTML of the news article and paste it below the frontmatter.
 
 ### Adding events
@@ -52,6 +54,9 @@ following frontmatter:
     title: "Event Title"
     categories: [ events ]
     ---
+
+Event posts may have *one* additional category to indicate the hashtag
+for the event, such as `[ events, whereisbassel ]`.
 
 ### Adding testimonials
 
