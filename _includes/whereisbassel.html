@@ -1,9 +1,9 @@
 <div class="alert-box success">
   <div class="row">
-    <div class="medium-3 small-12 columns">
+    <div class="medium-2 small-12 columns">
       <img src="assets/documents/whereisbassel/freebassel-infosheet-2016-color-outlines.png" alt="#WhereIsBassel" />
     </div>
-    <div class="medium-9 small-12 columns">
+    <div class="medium-10 small-12 columns">
 	<h5><span class="label success">Please Help</span></h5>
 	<p>
 Use, print, share, remix these graphics online or offline with the
@@ -12,10 +12,6 @@ hashtag <a href="https://twitter.com/hashtag/whereisbassel?src=hash">#WhereIsBas
 	<p>
         <a href="https://github.com/freebassel/2016-whereisbassel/archive/master.zip" class="button success">Download ZIP</a>
 	</p>
-        {% for post in site.categories.whereisbassel limit:1 %}
-	<h5><small>{{ post.date | date: "%d %h %Y" }}</small></h5>
-        {{ post.content }}
-        {% endfor %}
     </div>
   </div>
 </div>
