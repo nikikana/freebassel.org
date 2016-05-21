@@ -1,0 +1,11 @@
+{% if site.categories.happybdaybassel.size > 0 %}
+<div class="alert-box info">
+{% for post in site.categories.happybdaybassel %}
+  <h5>
+    <span class="label secondary">News</span>
+    <small>{{ post.date | date: "%d %h %Y" }}</small>
+  </h5>
+  <h5><a href="{{ site.baseurl }}{{post.url}}">{{post.title}}</a></h5>
+{% endfor %}
+{% endif %}
+</div>
