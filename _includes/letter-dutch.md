@@ -2,7 +2,7 @@ Op 15 maart 2012 werd Bassel Khartabil aangehouden tijdens een golf van arrestat
 Tot oktober 2015 werd hij door de Syrische regering vastgehouden in de Adra gevangenis in Damascus.
 Niemand weet waar hij zich nu bevindt.
 
-Bassel Khartabil, een 34-jarige Palestijnse Syriër, is een vooraanstaand softwareontwikkelaar die gespecialiseerd is in open-source software dat een belangrijke bijdrage levert aan de ontwikkeling van het internet. Tien jaar geleden begon hij zijn loopbaan in Syrië, waar hij werkte als technisch directeur voor lokale bedrijven die zich richtten op culturele projecten zoals Restoring Palmyra en Forward Syria Magazine.
+Bassel Khartabil, een {{ bassel_age }}-jarige Palestijnse Syriër, is een vooraanstaand softwareontwikkelaar die gespecialiseerd is in open-source software dat een belangrijke bijdrage levert aan de ontwikkeling van het internet. Tien jaar geleden begon hij zijn loopbaan in Syrië, waar hij werkte als technisch directeur voor lokale bedrijven die zich richtten op culturele projecten zoals Restoring Palmyra en Forward Syria Magazine.
 
 Sinds die tijd staat Bassel bekend om zijn sterke toewijding voor een open internet. Door zijn eigen ervaringen te delen, leert hij anderen wat er mogelijk is op technisch gebied. Bassel is projectleider van het open-source softwareplatform Aiki Framework. Binnen technische online gemeenschappen staat hij bekend als een toegewijde vrijwilliger die zich inzet voor grote internetprojecten zoals Creative Commons (www.creativecommons.org), Mozilla Firefox (www.mozilla.org), Wikipedia (www.wikipedia.org), Openclipart (www.openclipart.org), Fabricatorz (www.fabricatorz.com) en Sharism (www.sharism.org).
 

@@ -2,7 +2,7 @@
 Do października 2015 był przetrzymywany przez syryjski rząd w więzieniu Adra w Damaszku.
 Nie ma informacji na temat jego obecnego miejsca pobytu.
 
-34-letni Bassel Khartabil, Paleńczyko-Syryjczyk , jest programistą specjalizującym się w rozwijaniu otwartego oprogramowania. Działania takich ludzi, jak Bassel był podstawą to powstania sieci Internet. Bassel swoją pracę rozpoczął 10 lat temu w Syrii, pomagając wielu lokalnym organizacjom W ich działaniach, jak np. restauracji Palmiry, lub Forward Syria Magazine.
+{{ bassel_age }}-letni Bassel Khartabil, Paleńczyko-Syryjczyk , jest programistą specjalizującym się w rozwijaniu otwartego oprogramowania. Działania takich ludzi, jak Bassel był podstawą to powstania sieci Internet. Bassel swoją pracę rozpoczął 10 lat temu w Syrii, pomagając wielu lokalnym organizacjom W ich działaniach, jak np. restauracji Palmiry, lub Forward Syria Magazine.
 
 Dzięki swojej pracy i zaangażaowaniu w rozwój otwartej sieci, wpieraniu wielu osób w  wykorzystywaniu technologii w działalności społecznej, Bassel stał się szeroko znany i zdobył wielu przyjaciół. Bassel jest project leaderem w projekcie Aiki Framework. Współpracował z Creative Commons (www.creativecommons.org) i Mozilla Firefox (www.mozilla.org), Wikipedią (www.wikipedia.org), Openclipart (www.openclipart.org), Fabricatorz (www.fabricatorz.com) i Sharism (www.sharism.org).
 

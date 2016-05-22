@@ -1,3 +1,13 @@
+{% assign birthday = site.birthday | date: "%s" %}
+{% assign today = "now" | date: "%s" %}
+
+{% assign time_diff = today | minus: birthday %}
+{% assign year_diff = time_diff | date : "%Y" %}
+
+{% assign epoch = 0 | date: "%Y" %}
+
+{% assign bassel_age = year_diff | minus: epoch %}
+
 <ul class="tabs" data-tab>
 	<li class="tab-title active"><a href="#english">English</a></li>
 	<li class="tab-title"><a href="#arabic" dir="rtl">العربية</a></li>

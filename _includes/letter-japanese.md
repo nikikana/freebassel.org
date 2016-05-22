@@ -3,7 +3,7 @@
 彼は現在は所在不明になっています。
 
 
-パレスチナ系シリア人のBassel Khartabil（34歳）は、オープンソースソフトウェア開発、つまりインターネット環境提供への貢献を専門とする一流のエンジニアです。10年前にシリアでそのキャリアをスタートさせ、複数の地元企業で技術主任として、Forward Syria誌やパルミラ（Palmyra）修復など文化的プロジェクトに携わりました。
+パレスチナ系シリア人のBassel Khartabil（{{ bassel_age }}歳）は、オープンソースソフトウェア開発、つまりインターネット環境提供への貢献を専門とする一流のエンジニアです。10年前にシリアでそのキャリアをスタートさせ、複数の地元企業で技術主任として、Forward Syria誌やパルミラ（Palmyra）修復など文化的プロジェクトに携わりました。
 
 それ以来、Basselはオープンなインターネットへの取り組みや他者へ技術教育、そして自らの経験を生かした世界貢献により、世界的に有名になりました。Basselは、Aikiフレームワークと呼ばれるオープンソースソフトウェアのプロジェクト・リーダーでした。また、彼が、クリエイティブ・コモンズ (Creative Commons, www.creativecommons.org )、Mozilla Firefox (www.mozilla.org )、ウィキペディア (Wikipedia, www.wikipedia.org )、Openclipart (www.openclipart.org )、Fabricatorz (www.fabricatorz.com), 共有主義 (Sharism, www.sharism.org )などの主要なインターネットプロジェクトにおいて無償で力を尽くしたことは、オンライン技術コミュニティにおいてよく知られています。
 

@@ -2,7 +2,7 @@ El 15 de març de 2012, Bassel Khartabil va ser detingut en el context d'una ona
 Fins a l'octubre de 2015, es trobava reclòs a la presó d'Adra de Damasc pel govern sirià.
 Es desconeix el seu parador actual.
 
-Bassel Khartabil, un sirià palestí de 34 anys, és un respectat enginyer informàtic especialitzat en el desenvolupament de programari de codi obert, el tipus de codi sobre els quals es basa Internet. Va iniciar la seva carrera fa deu anys a Síria, on va treballar com a director tècnic d'una sèrie d'empreses locals en projectes culturals com la restauració de Palmira i la revista Forward Syria Magazine.
+Bassel Khartabil, un sirià palestí de {{ bassel_age }} anys, és un respectat enginyer informàtic especialitzat en el desenvolupament de programari de codi obert, el tipus de codi sobre els quals es basa Internet. Va iniciar la seva carrera fa deu anys a Síria, on va treballar com a director tècnic d'una sèrie d'empreses locals en projectes culturals com la restauració de Palmira i la revista Forward Syria Magazine.
 
 Des de llavors, Bassel s'ha convertit en una persona coneguda mundialment pel seu fort compromís amb el moviment per a una Internet oberta, ensenyant coneixements sobre tecnologia als altres i aportant la seva experiència lliurement per ajudar el món. En Bassel és el líder del projecte per a un programa de codi obert anomenat Aiki Framework. En les comunitats tècniques en línia, és conegut com a voluntari dedicat a projectes d'Internet encara més importants com Creative Commons (www.creativecommons.org), Mozilla Firefox (www.mozilla.org), la Viquipèdia (www.wikipedia.org), Openclipart (www.openclipart.org), Fabricatorz (www.fabricatorz.com) i Sharism (www.sharism.org).
 
