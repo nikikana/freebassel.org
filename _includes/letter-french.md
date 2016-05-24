@@ -1,4 +1,6 @@
-Le 15 mars 2012, Bassel Khartabil a été incarcéré suite à une vague d’arrestations dans le quartier de Mazzeh à Damas (Syrie). Il est actuellement retenu prisonnier, par le gouvernement syrien, dans la prison d'Adra à Damas.
+Le 15 mars 2012, Bassel Khartabil a été incarcéré suite à une vague d’arrestations dans le quartier de Mazzeh à Damas (Syrie).
+Jusqu'à Octobre 2015, il était retenu prisonnier à Adra à Damas par le gouvernement syrien.
+Ses coordonnées actuelles sont inconnues.
 
 Bassel Khartabil, un palestinien de {{ bassel_age }} ans né en Syrie, est un ingénieur en informatique reconnu pour ses compétences dans le développement de logiciels open source qui contribuent à l’élaboration d’Internet. Il a commencé sa carrière il y a dix ans en Syrie comme directeur technique d’un certain nombre d’entreprises locales en travaillant sur des projets culturels tels que la réhabilitation du site archéologique de Palmyre et le magazine Forward Syria.
 
