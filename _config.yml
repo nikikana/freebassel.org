@@ -1,4 +1,5 @@
 title: "FREEBASSEL"
+hashtag: "#WhereIsBassel"
 tagline: "Campaign to FREE Bassel Khartabil"
 exclude: [README.md, LICENSE.md, designs, Gemfile, Gemfile.lock, config, get_supporters_data.rb]
 
