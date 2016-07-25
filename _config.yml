@@ -1,5 +1,5 @@
 title: "FREEBASSEL"
-hashtag: "#happybdaybassel"
+hashtag: "#basselpicnicday"
 tagline: "Campaign to FREE Bassel Khartabil"
 exclude: [README.md, LICENSE.md, designs, Gemfile, Gemfile.lock, config, get_supporters_data.rb]
 
@@ -14,7 +14,7 @@ keywords: ['freebassel', 'basselkhartabil ', 'basselsafadi', 'bassel', 'whereisb
 
 email: info@freebassel.org
 twitter: freebassel
-facebook: FreeBasselSafadi
+facebook: freebassel
 instagram: freebassel
 birthday: "1981-05-22"
 
