@@ -9,6 +9,7 @@ future: true
 name: FREEBASSEL
 description: "#FREEBASSEL is a campaign to free loved technology innovator Bassel Khartabil missing since March 15, 2012."
 url: http://freebassel.org
+repository: freebassel/freebassel.org
 
 keywords: ['freebassel', 'basselkhartabil ', 'basselsafadi', 'bassel', 'whereisbassel', 'syria', 'damascus', 'creativecommons', 'freeculture', 'sharing', 'sharism']
 
@@ -28,3 +29,7 @@ instafeed:
   captions: true
   limit: '20'
   refresh: '60000'
+
+gems:
+  - jekyll-sitemap
+  - jekyll-github-metadata
