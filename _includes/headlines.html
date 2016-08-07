@@ -1,23 +1,15 @@
-{% if site.categories.happybdaybassel.size > 0 %}
+{% if site.tags.headline.size > 0 %}
 <div class="alert-box info">
-{% for post in site.categories.happybdaybassel %}
+{% for post in site.tags.headline %}
   <h5>
     <span class="label secondary">News</span>
     <small>{{ post.date | date: "%d %h %Y" }}</small>
   </h5>
-  <h5><a href="{{ site.baseurl }}{{post.url}}">{{post.title}}</a></h5>
-{% endfor %}
-{% endif %}
-</div>
-
-{% if site.categories.video.size > 0 %}
-<div class="alert-box info">
-{% for post in site.categories.video %}
   <h5>
-    <span class="label secondary">News</span>
-    <small>{{ post.date | date: "%d %h %Y" }}</small>
+    {% if post.categories contains 'video' %}
+    Watch Video:
+    {% endif %}
+    <a href="{{ site.baseurl }}{{post.url}}">{{post.title}}</a>
   </h5>
-  <h5>Watch Video: <a href="{{ site.baseurl }}{{post.url}}">{{post.title}}</a></h5>
 {% endfor %}
 {% endif %}
-</div>

@@ -58,6 +58,18 @@ following frontmatter:
 Event posts may have *one* additional category to indicate the hashtag
 for the event, such as `[ events, whereisbassel ]`.
 
+### Addding headlines
+
+If you want the post to be a headline on the top of the homepage, add
+the `headline` tag to its frontmatter:
+
+    ---
+    layout: events
+    title: "Event Title"
+    categories: [ events ]
+    tags: [ headline ]
+    ---
+
 ### Adding testimonials
 
 To add a new notable quote to the homepage, edit the `_data/testimonials.yaml` file, and add a new entry, following this template:
