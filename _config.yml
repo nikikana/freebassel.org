@@ -1,5 +1,5 @@
 title: "FREEBASSEL"
-hashtag: "#basselpicnicday"
+hashtag: "#disappeared"
 tagline: "Campaign to FREE Bassel Khartabil"
 exclude: [README.md, LICENSE.md, designs, Gemfile, Gemfile.lock, config, get_supporters_data.rb]
 
@@ -7,11 +7,11 @@ permalink: /campaign/:categories/:year/:month/:day/:title/
 future: true
 
 name: FREEBASSEL
-description: "#FREEBASSEL is a campaign to free loved technology innovator Bassel Khartabil missing since March 15, 2012."
+description: "We free loved technology innovator Bassel Khartabil missing since March 15, 2012, disappeared Oct 23, 2015."
 url: http://freebassel.org
 repository: freebassel/freebassel.org
 
-keywords: ['freebassel', 'basselkhartabil ', 'basselsafadi', 'bassel', 'whereisbassel', 'syria', 'damascus', 'creativecommons', 'freeculture', 'sharing', 'sharism']
+keywords: ['freebassel', 'basselkhartabil ', 'basselsafadi', 'bassel', 'whereisbassel', 'syria', 'damascus', 'creativecommons', 'freeculture', 'disappeared']
 
 email: info@freebassel.org
 twitter: freebassel
