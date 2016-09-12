@@ -11,6 +11,10 @@ layout: default
       </a>
     </h3>
 
+    {% if page.author %}
+    <p>by {{ page.author }}</p>
+    {% endif %}
+
 	<hr/>
 
 	<article>
