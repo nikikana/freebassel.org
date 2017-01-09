@@ -1,6 +1,6 @@
 ---
 layout: events
-title: "Watch When Syria Went Offline Video Featuring Bassel Khartabil"
+title: "When Syria Went Offline Video Featuring Bassel Khartabil"
 categories: [ video, freebassel5years ]
 tags: [ headline ]
 ---
