@@ -2,7 +2,7 @@
 layout: statements
 title: "#FREEBASSEL Campaign Denounces U.S. Executive Order Excluding Refugees"
 categories: [ statements ]
-tags: [ headline ]
+tags: [ ]
 ---
 
 GLOBAL - Monday, 30 January 2017 - The #FREEBASSEL campaign denounces an executive order issued by the President of the United States that suspends the U.S. Refugee Admissions Program (USRAP) for 120 days as well as entry of people from Iraq, Iran, Libya, Somalia, Sudan, and Yemen for 90 days and from Syria indefinitely, regardless of visa.
