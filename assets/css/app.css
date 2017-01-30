@@ -36,8 +36,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .svg-header {
-  background: url("/assets/images/photos/freebassel-2016-red.svg") no-repeat center center;
-  background-size: 90%;
+  background: url("/assets/images/photos/freebassel-2017-black.svg") no-repeat center center;
+  background-size: 80%;
   max-width: 70rem;
   margin: 0 auto;
 }
