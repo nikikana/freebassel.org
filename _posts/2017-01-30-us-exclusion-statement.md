@@ -1,6 +1,6 @@
 ---
 layout: statements
-title: "#FREEBASSEL Movement Denounces U.S. Executive Order Excluding Refugees"
+title: "#FREEBASSEL Campaign Denounces U.S. Executive Order Excluding Refugees"
 categories: [ statements ]
 tags: [ headline ]
 ---
