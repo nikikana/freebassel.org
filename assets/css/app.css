@@ -48,11 +48,10 @@ h1, h2, h3, h4, h5, h6 {
   padding: 4rem 1rem; }
   
 .header .main-header {
-    font-weight: 900;
+    font-weight: 800;
     font-family: "Work Sans", "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
     text-shadow: #444 1px 1px 1px;
     color: #666; 
-    text-transform: none;	
 }
 .header .main-header a {
       color: #ffdb3a; }
@@ -250,7 +249,7 @@ p, blockquote {
 
 @media only screen and (min-width: 1020px) {
   .header .main-header {
-		font-size: 6em;
+		font-size: 4em;
     text-shadow: #444 1px 1px 1px, #111 2px 3px 1px;
 	}
 }
