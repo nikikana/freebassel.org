@@ -2,10 +2,10 @@
 layout: statements
 title: "#FREEBASSEL Campaign Denounces U.S. Executive Order Excluding Refugees"
 categories: [ statements ]
-tags: [ ]
+tags: [ headline ]
 ---
 
-GLOBAL - Monday, 30 January 2017 - The #FREEBASSEL campaign denounces an executive order issued by the President of the United States that suspends the U.S. Refugee Admissions Program (USRAP) for 120 days as well as entry of people from Iraq, Iran, Libya, Somalia, Sudan, and Yemen for 90 days and from Syria indefinitely, regardless of visa.
+GLOBAL - Tuesday, 31 January 2017 - The #FREEBASSEL campaign denounces an executive order issued by the President of the United States that suspends the U.S. Refugee Admissions Program (USRAP) for 120 days as well as entry of people from Iraq, Iran, Libya, Somalia, Sudan, and Yemen for 90 days and from Syria indefinitely, regardless of visa.
 
 The #FREEBASSEL campaign is committed to the safe release and refuge of Bassel Khartabil, a Syrian human rights and open technology activist who has been detained without trial by the Syrian regime since 15 March 2012, and disappeared since 3 October 2015. The Massachusetts Institute of Technology has offered Khartabil a research scientist position in the MIT Media Lab's Center for Civic Media on projects that make Syria's history accessible to the world, including resumption of Khartabil's work on digital 3-D reconstruction of ancient Palmyra, one of the sites raided and destroyed by the Islamic State of Iraq and Syria (ISIS).
 
