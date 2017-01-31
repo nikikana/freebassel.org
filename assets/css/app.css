@@ -213,8 +213,9 @@ p, blockquote {
   border-width: 20px 18px 0 18px;
   border-color: #ebf3f5 transparent transparent transparent;
   position: absolute;
-  bottom: -10px;
-  left: 35px;
+  bottom: -20px;
+  left: 38px;
+  z-index: -999;
 }
 
 .expert {
