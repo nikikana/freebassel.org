@@ -1,7 +1,7 @@
 ---
 layout: events
 title: "#FREEBASSEL5DAYS 5 PUBLIC ACTS PLEDGE ASKED FOR MARCH 15, 2017"
-categories: [ events, freebassel5years ]
+categories: [ events, freebasselday ]
 tags: [ headline ]
 ---
 
