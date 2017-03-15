@@ -23,7 +23,7 @@ All are encouraged to follow Phillips' lead and do 5 public acts to be posted ab
 - Hold a #freebassel5years vigil, picnic, hackathon, protest, or other physical space event, and share digital representations of the event or artifacts created there on #freebassel5years social media.
 - Remix or create your own #freebassel media, upload to your favorite sites, and share links on social media, using the tag #freebassel5years everywhere.
 - Share projects honoring Bassel such as the <a href="http://costoffreedom.cc/">Cost of Freedom</a> book, again on social media under the tag #freebassel5years.
-- Share ongoing projects founded by Bassel, suc as the <a href="http://www.newpalmyra.org/">#NEWPALMYRA</a> project...on social media, tagged #freebassel5years.
+- Share ongoing projects founded by Bassel, such as the <a href="http://www.newpalmyra.org/">#NEWPALMYRA</a> project...on social media, tagged #freebassel5years.
 - State on social media that you're participating in #freebassel5years, e.g., <i>1. I pledge to make 5 public acts to demand a #freebassel for #freebassel5years, join me http://freebassel.org/campaign/events/freebasselday/2017/03/09/freebassel5years/</i>
 - Free Bassel. It's OK if you forget to mention it on social media using the tag #freebassel5years.
 
