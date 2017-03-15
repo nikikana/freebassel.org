@@ -31,6 +31,3 @@ All are encouraged to follow Phillips' lead and do 5 public acts to be posted ab
 
 - Please contact <a href="mailto:info@freebassel.org">info@freebassel.org</a>
 - <a href="https://www.facebook.com/events/1832465017031438/">Facebook Event Page</a>
-
-
-"> 
