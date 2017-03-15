@@ -8,12 +8,13 @@ layout: null
 		<description>{{ site.description }}</description>
 		<link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-		{% for post in site.categories.press limit:20 %}
+		{% for post in site.posts limit:20 %}
+                {% assign post_url = post.url | prepend: site.url %}
 			<item>
 				<title>{{ post.title }}</title>
 				<description>{{ post.content | xml_escape }}</description>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-				<link>{{ post.link }}</link>
+				<link>{{ post.link | default: post_url }}</link>
 				<guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
 			</item>
 		{% endfor %}

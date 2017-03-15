@@ -36,8 +36,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .svg-header {
-  background: url("/assets/images/photos/freebassel-2016-red.svg") no-repeat center center;
-  background-size: 90%;
+  background: url("/assets/images/photos/freebassel-2017-black.svg") no-repeat center center;
+  background-size: 80%;
   max-width: 70rem;
   margin: 0 auto;
 }
@@ -48,16 +48,18 @@ h1, h2, h3, h4, h5, h6 {
   padding: 4rem 1rem; }
   
 .header .main-header {
-    font-weight: 900;
+    font-weight: 800;
     font-family: "Work Sans", "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
     text-shadow: #444 1px 1px 1px;
     color: #666; 
-    text-transform: none;	
+  word-wrap: break-word;
 }
 .header .main-header a {
-      color: #ffdb3a; }
+  color: #50cf7f;
+}
 .header .main-header a:hover {
-      color: #fff13c; }
+  color: #2ced74;
+}
 
 .header-subnav {
   float: none;
@@ -86,11 +88,11 @@ h1, h2, h3, h4, h5, h6 {
         transition: all .25s ease-in-out; }
 
     .header-invert .header-subnav li a {
-      background: rgba(240, 65, 36, 0.95);
+      background: rgba(0, 172, 228, 0.95);
       color: white; }
       .header-invert .header-subnav li a.is-active {
-      background: rgba(255, 219, 58, 1);
-        color: #333; }
+        background: rgba(80, 207, 127, 1);
+      }
       .header-invert .header-subnav li a.is-active:hover,
       .header-invert .header-subnav li a:hover {
         background: rgba(247, 247, 247, 0.95);
@@ -211,8 +213,9 @@ p, blockquote {
   border-width: 20px 18px 0 18px;
   border-color: #ebf3f5 transparent transparent transparent;
   position: absolute;
-  bottom: -10px;
-  left: 35px;
+  bottom: -20px;
+  left: 38px;
+  z-index: -999;
 }
 
 .expert {
@@ -250,8 +253,8 @@ p, blockquote {
 
 @media only screen and (min-width: 1020px) {
   .header .main-header {
-		font-size: 6em;
-    text-shadow: #444 1px 1px 1px, #111 2px 3px 1px;
+		font-size: 4em;
+    text-shadow: #444 1px 1px 1px, #222 2px 2px 1px;
 	}
 }
 

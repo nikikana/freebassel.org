@@ -9,18 +9,17 @@ FREEBASSEL is a campaign to bring about the safe and immediate release of Bassel
 ### Requirements
 
 * Ruby
-* [Bundler](http://bundler.io/)
-* [Jekyll](http://jekyllrb.com/docs/installation/)
 
 ### Installation
 
+    gem install bundler
     git clone https://github.com/freebassel/freebassel.org
     cd freebassel.org
     bundle install
 
 ### Run the site in development mode
 
-    jekyll serve
+    bundle exec jekyll serve
 
 The site will compile and run at http://localhost:4000
 
@@ -93,7 +92,7 @@ Copy `config/config-sample.rb` to `config/config.rb` and fill in the Client ID, 
 
 Run the script with:
 
-    rake update_supporters_list
+    bundle exec rake update_supporters_list
 
 Follow the instructions to authorize the application. The `_data/supporters.json` will be updated.
 
@@ -105,4 +104,4 @@ Set the value of CHANGE_ORG_API_KEY in config.rb.
 
 Run the rake task with
 
-    rake fetch_change_org_petition
+    bundle exec rake fetch_change_org_petition

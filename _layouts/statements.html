@@ -5,6 +5,12 @@ layout: default
 <div class="row">
   <div class="small-12 columns">
 
+    <h3>
+      <a href="{{ page.url | prepend: site.base.url }}">
+        {{ page.title }}
+      </a>
+    </h3>
+
 	<p>Date: {{ page.date | date: "%d %B %Y" }}</p>
 
 	<p>Filed under: <a href="{{site.baseurl}}/campaign/{{ page.categories }}">{{ page.categories }}</a></p>
